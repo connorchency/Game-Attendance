@@ -1,4 +1,4 @@
-,date,game_center,geo_location,attendance,capacity,home,guest
+,date,game_center,geo_location,attendance,capacity,guest,home
 0,2016-10-11 21:30:00,Golden 1 Center,"SACRAMENTO, CA",16000,17500,Haifa,Kings
 1,2016-10-19 21:00:00,Golden 1 Center,"SACRAMENTO, CA",16000,17500,Clippers,Kings
 2,2016-10-07 18:30:00,Greensboro Coliseum,"Greensboro, NC",8021,23309,Celtics,Hornets
