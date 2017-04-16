@@ -1,0 +1,1293 @@
+,date,game_center,geo_location,attendance,capacity,guest,home
+0,2016-10-11 21:30:00,Golden 1 Center,"SACRAMENTO, CA",16000,17500,Haifa,Kings
+1,2016-10-19 21:00:00,Golden 1 Center,"SACRAMENTO, CA",16000,17500,Clippers,Kings
+2,2016-10-07 18:30:00,Greensboro Coliseum,"Greensboro, NC",8021,23309,Celtics,Hornets
+3,2016-10-05 18:00:00,Mullins Center,"Amherst, MA",4532,9493,Celtics,76ers
+4,2016-10-15 18:00:00,Air Canada Centre,"Toronto, ON",15113,19800,Lorenz,Raptors
+5,2016-10-04 19:00:00,United Center,"Chicago, IL",20104,20917,Bucks,Bulls
+6,2016-10-07 18:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",12925,18165,Bulls,Pacers
+7,2016-10-09 19:00:00,United Center,"Chicago, IL",20096,20917,Pacers,Bulls
+8,2016-10-15 19:00:00,United Center,"Chicago, IL",21766,20917,Cavaliers,Bulls
+9,2016-10-16 19:30:00,BMO Harris Bradley Center,"Milwaukee, WI",10794,18717,Bulls,Bucks
+10,2016-10-18 19:00:00,United Center,"Chicago, IL",20025,20917,Hornets,Bulls
+11,2016-10-11 18:30:00,The Palace of Auburn Hills,"Detroit, MI",12103,22076,Spurs,Pistons
+12,2016-10-14 18:30:00,Philips Arena,"Atlanta, GA",10852,18729,Pistons,Hawks
+13,2016-10-16 18:00:00,Wells Fargo Center,"Philadelphia, PA",10891,20318,Pistons,76ers
+14,2016-10-18 18:30:00,The Palace of Auburn Hills,"Detroit, MI",10096,22076,Bucks,Pistons
+15,2016-10-20 18:30:00,The Palace of Auburn Hills,"Detroit, MI",12334,22076,Raptors,Pistons
+16,2016-10-04 19:00:00,FedExForum,"Memphis, TN",12511,18119,Magic,Grizzlies
+17,2016-10-06 18:00:00,Quicken Loans Arena,"Cleveland, OH",18789,20562,Magic,Cavaliers
+18,2016-10-13 18:00:00,Amway Center,"Orlando, FL",15092,18500,Spurs,Magic
+19,2016-10-15 18:00:00,Amway Center,"Orlando, FL",14097,18500,Pacers,Magic
+20,2016-10-17 17:00:00,Amway Center,"Orlando, FL",15081,18500,Hawks,Magic
+21,2016-10-21 18:00:00,Amway Center,"Orlando, FL",14901,18500,Pelicans,Magic
+22,2016-10-07 19:00:00,FedExForum,"Memphis, TN",13246,18119,Hawks,Grizzlies
+23,2016-10-09 19:30:00,AT&T Center,"San Antonio, TX",18555,18581,Hawks,Spurs
+24,2016-10-11 18:30:00,Philips Arena,"Atlanta, GA",16202,18729,Cavaliers,Hawks
+25,2016-10-19 18:30:00,Philips Arena,"Atlanta, GA",10866,18729,Pelicans,Hawks
+26,2016-10-09 14:30:00,Mohegan Sun Arena,"Uncasville, CT",8052,10000,Hornets,Celtics
+27,2016-10-16 18:30:00,Madison Square Garden,"New York, NY",19607,19763,Celtics,Knicks
+28,2016-10-18 18:30:00,TD Garden,"Boston, MA",15925,18624,Nets,Celtics
+29,2016-10-20 18:30:00,TD Garden,"Boston, MA",16327,18624,Knicks,Celtics
+30,2016-10-09 18:30:00,Madison Square Garden,"New York, NY",19601,19763,Nets,Knicks
+31,2016-10-15 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",12209,18422,Mavericks,Suns
+32,2016-10-20 19:30:00,American Airlines Center,"Dallas, TX",18988,19200,Rockets,Mavericks
+33,2016-10-17 20:00:00,Moda Center,"Portland, OR",18135,19441,Nuggets,Trail
+34,2016-10-22 21:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Blazers,Warriors
+35,2016-10-04 19:30:00,American Airlines Center,"Dallas, TX",19219,19200,Hornets,Mavericks
+36,2016-10-11 18:00:00,Spectrum Center,"Charlotte, NC",8424,19077,Timberwolves,Hornets
+37,2016-10-21 18:00:00,Spectrum Center,"Charlotte, NC",9127,19077,Heat,Hornets
+38,2016-10-22 19:00:00,Target Center,"Minneapolis, MN",9708,19356,Hornets,Timberwolves
+39,2016-10-05 19:00:00,Toyota Center,"Houston, TX",14397,18104,Knicks,Rockets
+40,2016-10-16 19:00:00,Toyota Center,"Houston, TX",14690,18104,Grizzlies,Rockets
+41,2016-10-22 19:30:00,AT&T Center,"San Antonio, TX",18418,18581,Rockets,Spurs
+42,2016-10-03 19:00:00,Toyota Center,"Houston, TX",12313,18104,Shanghai,Rockets
+43,2016-10-13 18:30:00,Bankers Life Fieldhouse,"Indianapolis, IN",6447,18165,Bucks,Pacers
+44,2016-10-20 19:00:00,BMO Harris Bradley Center,"Milwaukee, WI",5450,18717,Pacers,Bucks
+45,2016-10-11 21:30:00,STAPLES Center,"Los Angeles, CA",12518,19060,Jazz,Clippers
+46,2016-10-14 21:30:00,STAPLES Center,"Los Angeles, CA",14896,19060,Blazers,Clippers
+47,2016-10-18 20:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",18811,19911,Clippers,Jazz
+48,2016-10-12 19:00:00,FedExForum,"Memphis, TN",14248,18119,76ers,Grizzlies
+49,2016-10-20 19:00:00,Target Center,"Minneapolis, MN",9594,19356,Grizzlies,Timberwolves
+50,2016-10-04 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",8076,18422,Spurs,Suns
+51,2016-10-06 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",8407,18422,Jazz,Suns
+52,2016-10-08 21:00:00,Moda Center,"Portland, OR",17413,19441,Suns,Trail
+53,2016-10-13 20:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",16521,19911,Suns,Jazz
+54,2016-10-20 20:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",17519,19911,Blazers,Jazz
+55,2016-10-04 21:00:00,Moda Center,"Portland, OR",15004,19441,Jazz,Trail
+56,2016-10-12 19:30:00,American Airlines Center,"Dallas, TX",18329,19200,Thunder,Mavericks
+57,2016-10-17 18:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",1,18203,Timberwolves,Thunder
+58,2016-10-19 19:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",1,18203,Nuggets,Thunder
+59,2017-03-02 19:00:00,Amway Center,"Orlando, FL",16005,18500,Knicks,Magic
+60,2016-12-02 19:00:00,Spectrum Center,"Charlotte, NC",14471,19077,Mavericks,Hornets
+61,2017-02-02 19:00:00,Amway Center,"Orlando, FL",16662,18500,Pacers,Magic
+62,2017-04-02 14:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Lakers,Clippers
+63,2017-02-02 19:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Timberwolves,Cavaliers
+64,2017-01-02 18:00:00,Philips Arena,"Atlanta, GA",18088,18729,Spurs,Hawks
+65,2016-10-26 18:30:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Knicks,Cavaliers
+66,2016-10-26 21:00:00,Moda Center,"Portland, OR",19446,19441,Jazz,Trail
+67,2016-10-26 21:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Spurs,Warriors
+68,2016-10-27 18:00:00,Amway Center,"Orlando, FL",19298,18500,Heat,Magic
+69,2016-10-27 18:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",17923,18165,Mavericks,Pacers
+70,2016-10-27 18:30:00,TD Garden,"Boston, MA",18624,18624,Nets,Celtics
+71,2017-01-02 18:00:00,AmericanAirlines Arena,"Miami, FL",19844,19600,Pistons,Heat
+72,2016-10-27 18:30:00,Air Canada Centre,"Toronto, ON",19800,19800,Pistons,Raptors
+73,2017-01-02 18:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",17530,18165,Magic,Pacers
+74,2016-10-27 19:00:00,BMO Harris Bradley Center,"Milwaukee, WI",18717,18717,Hornets,Bucks
+75,2017-01-02 19:00:00,Target Center,"Minneapolis, MN",15804,19356,Blazers,Timberwolves
+76,2016-10-27 19:00:00,FedExForum,"Memphis, TN",18119,18119,Timberwolves,Grizzlies
+77,2017-01-02 21:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Raptors,Lakers
+78,2016-10-27 19:00:00,Smoothie King Center,"New Orleans, LA",15869,17188,Nuggets,Pelicans
+79,2016-10-27 19:00:00,Wells Fargo Center,"Philadelphia, PA",20487,20318,Thunder,76ers
+80,2017-04-02 16:00:00,United Center,"Chicago, IL",22019,20917,Hawks,Bulls
+81,2017-02-02 19:30:00,TD Garden,"Boston, MA",18624,18624,Raptors,Celtics
+82,2016-12-02 20:00:00,FedExForum,"Memphis, TN",13344,18119,Magic,Grizzlies
+83,2017-03-02 19:30:00,Air Canada Centre,"Toronto, ON",19800,19800,Wizards,Raptors
+84,2016-12-02 20:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Clippers,Cavaliers
+85,2017-02-02 19:30:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Hawks,Heat
+86,2017-03-02 19:30:00,Philips Arena,"Atlanta, GA",12483,18729,Mavericks,Hawks
+87,2017-04-02 19:00:00,Target Center,"Minneapolis, MN",18960,19356,Kings,Timberwolves
+88,2017-02-02 19:30:00,The Palace of Auburn Hills,"Detroit, MI",14262,22076,Pelicans,Pistons
+89,2017-04-02 21:00:00,Moda Center,"Portland, OR",18915,19441,Suns,Trail
+90,2017-02-02 20:30:00,American Airlines Center,"Dallas, TX",19263,19200,76ers,Mavericks
+91,2017-03-02 19:30:00,AmericanAirlines Arena,"Miami, FL",19609,19600,76ers,Heat
+92,2017-02-02 21:00:00,Pepsi Center,"Denver, CO",12020,19155,Grizzlies,Nuggets
+93,2017-03-02 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",13214,18717,Nuggets,Bucks
+94,2017-04-03 14:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Hornets,Thunder
+95,2017-02-02 21:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19694,19911,Bucks,Jazz
+96,2017-04-03 14:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Grizzlies,Lakers
+97,2017-03-02 20:00:00,Smoothie King Center,"New Orleans, LA",14406,17188,Pistons,Pelicans
+98,2017-01-03 19:00:00,BMO Harris Bradley Center,"Milwaukee, WI",17423,18717,Thunder,Bucks
+99,2017-01-03 19:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Pelicans,Cavaliers
+100,2016-10-27 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",18055,18422,Kings,Suns
+101,2017-01-03 19:30:00,Madison Square Garden,"New York, NY",19812,19763,Magic,Knicks
+102,2016-10-27 21:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Rockets,Lakers
+103,2017-01-03 20:00:00,United Center,"Chicago, IL",21612,20917,Hornets,Bulls
+104,2017-01-03 20:00:00,Toyota Center,"Houston, TX",16569,18104,Wizards,Rockets
+105,2017-01-03 22:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Suns,Clippers
+106,2017-01-03 22:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Nuggets,Warriors
+107,2016-10-28 18:30:00,Philips Arena,"Atlanta, GA",19049,18729,Wizards,Hawks
+108,2017-01-04 19:00:00,Wells Fargo Center,"Philadelphia, PA",17124,20318,Timberwolves,76ers
+109,2016-10-28 19:00:00,United Center,"Chicago, IL",21501,20917,Celtics,Bulls
+110,2017-01-04 19:30:00,TD Garden,"Boston, MA",18624,18624,Jazz,Celtics
+111,2016-10-28 21:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Spurs,Kings
+112,2017-01-04 19:30:00,The Palace of Auburn Hills,"Detroit, MI",13435,22076,Pacers,Pistons
+113,2016-10-28 21:30:00,Moda Center,"Portland, OR",19500,19441,Clippers,Trail
+114,2017-01-04 20:30:00,American Airlines Center,"Dallas, TX",19318,19200,Wizards,Mavericks
+115,2017-01-04 20:30:00,AT&T Center,"San Antonio, TX",18418,18581,Raptors,Spurs
+116,2016-10-29 18:00:00,Air Canada Centre,"Toronto, ON",19800,19800,Cavaliers,Raptors
+117,2017-02-02 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",16191,18422,Clippers,Suns
+118,2017-04-03 14:30:00,BMO Harris Bradley Center,"Milwaukee, WI",18717,18717,Mavericks,Bucks
+119,2017-03-02 20:00:00,TD Garden,"Boston, MA",18624,18624,Cavaliers,Celtics
+120,2017-02-02 21:30:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Bulls,Thunder
+121,2016-12-02 21:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19073,19911,Heat,Jazz
+122,2017-02-02 22:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Hornets,Warriors
+123,2016-12-02 22:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Rockets,Warriors
+124,2017-03-02 20:30:00,AT&T Center,"San Antonio, TX",18418,18581,Pacers,Spurs
+125,2017-04-03 12:00:00,Madison Square Garden,"New York, NY",19812,19763,Celtics,Knicks
+126,2017-04-03 17:00:00,Smoothie King Center,"New Orleans, LA",18306,17188,Bulls,Pelicans
+127,2017-04-03 17:00:00,Air Canada Centre,"Toronto, ON",19800,19800,76ers,Raptors
+128,2017-03-02 21:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19127,19911,Timberwolves,Jazz
+129,2016-12-03 19:00:00,Wells Fargo Center,"Philadelphia, PA",13711,20318,Magic,76ers
+130,2017-04-03 17:00:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Nuggets,Heat
+131,2017-03-02 22:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Rockets,Clippers
+132,2017-02-03 19:00:00,Verizon Center,"Washington, DC",16473,20173,Lakers,Wizards
+133,2016-12-03 19:30:00,TD Garden,"Boston, MA",18624,18624,Kings,Celtics
+134,2017-03-02 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Nets,Kings
+135,2017-02-03 20:00:00,Toyota Center,"Houston, TX",15602,18104,Hawks,Rockets
+136,2017-01-04 21:00:00,Pepsi Center,"Denver, CO",11018,19155,Kings,Nuggets
+137,2017-01-04 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",16772,18422,Heat,Suns
+138,2017-01-04 22:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Grizzlies,Lakers
+139,2016-10-29 18:30:00,The Palace of Auburn Hills,"Detroit, MI",19122,22076,Magic,Pistons
+140,2016-10-29 19:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Suns,Thunder
+141,2016-10-29 19:00:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Hornets,Heat
+142,2016-10-29 19:30:00,American Airlines Center,"Dallas, TX",20163,19200,Rockets,Mavericks
+143,2016-10-29 20:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Lakers,Jazz
+144,2016-10-29 20:30:00,Smoothie King Center,"New Orleans, LA",18217,17188,Warriors,Pelicans
+145,2017-02-03 20:30:00,AT&T Center,"San Antonio, TX",18418,18581,76ers,Spurs
+146,2017-04-03 17:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Pacers,Cavaliers
+147,2017-02-03 22:30:00,STAPLES Center,"Los Angeles, CA",19385,19060,Warriors,Clippers
+148,2017-04-03 14:30:00,AT&T Center,"San Antonio, TX",18418,18581,Jazz,Spurs
+149,2017-04-03 19:00:00,ORACLE Arena,"Oakland, CA",19596,19596,Wizards,Warriors
+150,2017-04-03 20:00:00,Talking Stick Resort Arena,"Phoenix, AZ",17378,18422,Rockets,Suns
+151,2016-10-30 11:30:00,Wells Fargo Center,"Philadelphia, PA",16312,20318,Hawks,76ers
+152,2016-10-30 18:00:00,Spectrum Center,"Charlotte, NC",18708,19077,Celtics,Hornets
+153,2016-10-30 18:30:00,Madison Square Garden,"New York, NY",19812,19763,Grizzlies,Knicks
+154,2016-10-30 18:30:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Magic,Cavaliers
+155,2016-10-30 19:00:00,United Center,"Chicago, IL",21373,20917,Pacers,Bulls
+156,2016-10-30 19:00:00,BMO Harris Bradley Center,"Milwaukee, WI",12570,18717,Nets,Bucks
+157,2016-10-30 19:00:00,AT&T Center,"San Antonio, TX",18418,18581,Pelicans,Spurs
+158,2016-10-30 20:00:00,Pepsi Center,"Denver, CO",18055,19155,Blazers,Nuggets
+159,2016-10-30 21:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Timberwolves,Kings
+160,2016-10-31 15:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Jazz,Clippers
+161,2016-10-31 17:00:00,Talking Stick Resort Arena,"Phoenix, AZ",17011,18422,Warriors,Suns
+162,2016-10-31 17:00:00,AmericanAirlines Arena,"Miami, FL",19678,19600,Spurs,Heat
+163,2016-10-31 17:00:00,The Palace of Auburn Hills,"Detroit, MI",15161,22076,Bucks,Pistons
+164,2016-10-31 19:00:00,FedExForum,"Memphis, TN",15573,18119,Wizards,Grizzlies
+165,2016-10-31 18:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Lakers,Thunder
+166,2016-10-31 19:00:00,Toyota Center,"Houston, TX",18055,18104,Mavericks,Rockets
+167,2016-11-01 18:30:00,Air Canada Centre,"Toronto, ON",19800,19800,Nuggets,Raptors
+168,2016-11-01 18:30:00,Philips Arena,"Atlanta, GA",12501,18729,Kings,Hawks
+169,2016-11-01 21:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Suns,Clippers
+170,2016-11-02 18:00:00,Wells Fargo Center,"Philadelphia, PA",12529,20318,Magic,76ers
+171,2016-11-02 17:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Rockets,Cavaliers
+172,2016-11-02 18:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",15348,18165,Lakers,Pacers
+173,2016-11-02 18:30:00,AmericanAirlines Arena,"Miami, FL",19612,19600,Kings,Heat
+174,2016-11-02 18:30:00,The Palace of Auburn Hills,"Detroit, MI",13087,22076,Knicks,Pistons
+175,2016-11-02 19:00:00,Smoothie King Center,"New Orleans, LA",15515,17188,Bucks,Pelicans
+176,2016-11-02 19:00:00,Target Center,"Minneapolis, MN",14774,19356,Grizzlies,Timberwolves
+177,2016-11-02 19:30:00,AT&T Center,"San Antonio, TX",18418,18581,Jazz,Spurs
+178,2016-11-02 21:00:00,Moda Center,"Portland, OR",19393,19441,Warriors,Trail
+179,2016-11-03 18:00:00,Verizon Center,"Washington, DC",19581,20173,Raptors,Wizards
+180,2016-11-03 18:00:00,Spectrum Center,"Charlotte, NC",15275,19077,76ers,Hornets
+181,2016-11-03 18:30:00,Madison Square Garden,"New York, NY",19812,19763,Rockets,Knicks
+182,2016-11-03 18:30:00,Philips Arena,"Atlanta, GA",13800,18729,Lakers,Hawks
+183,2016-11-03 19:00:00,FedExForum,"Memphis, TN",15881,18119,Pelicans,Grizzlies
+184,2016-11-03 19:00:00,TD Garden,"Boston, MA",18624,18624,Bulls,Celtics
+185,2016-11-03 20:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19318,19911,Mavericks,Jazz
+186,2016-11-03 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",17284,18422,Blazers,Suns
+187,2016-11-03 21:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Thunder,Clippers
+188,2016-11-04 18:00:00,Amway Center,"Orlando, FL",17026,18500,Kings,Magic
+189,2016-11-04 19:00:00,BMO Harris Bradley Center,"Milwaukee, WI",11374,18717,Pacers,Bucks
+190,2016-11-04 19:00:00,Target Center,"Minneapolis, MN",11219,19356,Nuggets,Timberwolves
+191,2016-11-04 19:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Celtics,Cavaliers
+192,2016-11-04 21:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Thunder,Warriors
+193,2016-11-05 18:00:00,Verizon Center,"Washington, DC",14663,20173,Hawks,Wizards
+194,2016-11-05 18:30:00,Air Canada Centre,"Toronto, ON",19800,19800,Heat,Raptors
+195,2016-11-05 19:00:00,United Center,"Chicago, IL",22376,20917,Knicks,Bulls
+196,2016-11-05 19:00:00,FedExForum,"Memphis, TN",17115,18119,Clippers,Grizzlies
+197,2016-11-05 19:00:00,Smoothie King Center,"New Orleans, LA",15379,17188,Suns,Pelicans
+198,2016-11-05 19:30:00,American Airlines Center,"Dallas, TX",19475,19200,Blazers,Mavericks
+199,2016-11-05 20:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Spurs,Jazz
+200,2016-11-05 21:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Warriors,Lakers
+201,2016-11-06 17:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Timberwolves,Thunder
+202,2016-11-06 18:00:00,Wells Fargo Center,"Philadelphia, PA",20497,20318,Cavaliers,76ers
+203,2016-11-06 18:00:00,Amway Center,"Orlando, FL",18846,18500,Wizards,Magic
+204,2016-11-06 18:00:00,The Palace of Auburn Hills,"Detroit, MI",16218,22076,Nuggets,Pistons
+205,2016-11-06 18:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",17020,18165,Bulls,Pacers
+206,2016-11-06 18:30:00,Philips Arena,"Atlanta, GA",16895,18729,Rockets,Hawks
+207,2016-11-06 19:00:00,BMO Harris Bradley Center,"Milwaukee, WI",16021,18717,Kings,Bucks
+208,2016-11-06 19:30:00,AT&T Center,"San Antonio, TX",18418,18581,Clippers,Spurs
+209,2016-11-07 12:00:00,Madison Square Garden,"New York, NY",19812,19763,Jazz,Knicks
+210,2016-11-07 15:30:00,FedExForum,"Memphis, TN",16233,18119,Blazers,Grizzlies
+211,2016-11-07 18:00:00,Air Canada Centre,"Toronto, ON",19800,19800,Kings,Raptors
+212,2016-11-07 19:00:00,American Airlines Center,"Dallas, TX",19345,19200,Bucks,Mavericks
+213,2016-11-07 19:30:00,TD Garden,"Boston, MA",17452,18624,Nuggets,Celtics
+214,2016-11-07 21:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Suns,Lakers
+215,2016-11-08 19:00:00,Wells Fargo Center,"Philadelphia, PA",14168,20318,Jazz,76ers
+216,2016-11-08 19:00:00,Verizon Center,"Washington, DC",13173,20173,Rockets,Wizards
+217,2016-11-08 19:00:00,Spectrum Center,"Charlotte, NC",16880,19077,Pacers,Hornets
+218,2016-11-08 20:00:00,United Center,"Chicago, IL",21320,20917,Magic,Bulls
+219,2016-11-08 20:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Heat,Thunder
+220,2016-11-08 22:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Pistons,Clippers
+221,2016-11-08 22:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Pelicans,Warriors
+222,2016-11-09 19:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Hawks,Cavaliers
+223,2016-11-09 20:00:00,FedExForum,"Memphis, TN",15109,18119,Nuggets,Grizzlies
+224,2016-11-09 22:00:00,Moda Center,"Portland, OR",19239,19441,Suns,Trail
+225,2016-11-09 22:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Mavericks,Lakers
+226,2016-11-09 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Pelicans,Kings
+227,2016-11-10 19:00:00,Madison Square Garden,"New York, NY",19812,19763,Nets,Knicks
+228,2016-11-10 19:00:00,Verizon Center,"Washington, DC",12675,20173,Celtics,Wizards
+229,2016-11-10 19:00:00,Spectrum Center,"Charlotte, NC",15712,19077,Jazz,Hornets
+230,2016-11-10 19:00:00,Amway Center,"Orlando, FL",17102,18500,Timberwolves,Magic
+231,2016-11-10 19:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",15360,18165,76ers,Pacers
+232,2016-11-10 19:30:00,Philips Arena,"Atlanta, GA",16354,18729,Bulls,Hawks
+233,2016-11-10 20:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Raptors,Thunder
+234,2016-11-10 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",16719,18422,Pistons,Suns
+235,2016-11-10 21:30:00,AT&T Center,"San Antonio, TX",18418,18581,Rockets,Spurs
+236,2016-11-10 22:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Blazers,Clippers
+237,2016-11-10 22:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Mavericks,Warriors
+238,2016-11-11 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",12159,18717,Pelicans,Bucks
+239,2016-11-11 20:00:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Bulls,Heat
+240,2016-11-11 21:00:00,Pepsi Center,"Denver, CO",17569,19155,Warriors,Nuggets
+241,2016-11-11 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Lakers,Kings
+242,2016-11-12 19:00:00,Wells Fargo Center,"Philadelphia, PA",17643,20318,Pacers,76ers
+243,2016-11-12 19:00:00,Verizon Center,"Washington, DC",20356,20173,Cavaliers,Wizards
+244,2016-11-12 19:00:00,Spectrum Center,"Charlotte, NC",18107,19077,Raptors,Hornets
+245,2016-11-12 19:00:00,Amway Center,"Orlando, FL",18846,18500,Jazz,Magic
+246,2016-11-12 19:30:00,TD Garden,"Boston, MA",18624,18624,Knicks,Celtics
+247,2016-11-12 20:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Clippers,Thunder
+248,2016-11-12 20:30:00,AT&T Center,"San Antonio, TX",18418,18581,Pistons,Spurs
+249,2016-11-12 22:00:00,Moda Center,"Portland, OR",19918,19441,Kings,Trail
+250,2016-11-13 19:00:00,Smoothie King Center,"New Orleans, LA",17138,17188,Lakers,Pelicans
+251,2016-11-13 19:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",17923,18165,Celtics,Pacers
+252,2016-11-13 19:30:00,Air Canada Centre,"Toronto, ON",19800,19800,Knicks,Raptors
+253,2016-11-13 19:30:00,Philips Arena,"Atlanta, GA",17399,18729,76ers,Hawks
+254,2016-11-13 20:00:00,United Center,"Chicago, IL",21962,20917,Wizards,Bulls
+255,2016-11-13 20:00:00,Toyota Center,"Houston, TX",18055,18104,Spurs,Rockets
+256,2016-11-13 20:00:00,Target Center,"Minneapolis, MN",14494,19356,Clippers,Timberwolves
+257,2016-11-13 20:00:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Jazz,Heat
+258,2016-11-13 20:30:00,BMO Harris Bradley Center,"Milwaukee, WI",14327,18717,Grizzlies,Bucks
+259,2016-11-13 21:00:00,Pepsi Center,"Denver, CO",13997,19155,Pistons,Nuggets
+260,2016-11-13 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",17126,18422,Nets,Suns
+261,2016-11-14 15:30:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Hornets,Cavaliers
+262,2016-11-14 19:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Magic,Thunder
+263,2016-11-14 19:00:00,Target Center,"Minneapolis, MN",14432,19356,Lakers,Timberwolves
+264,2016-11-14 20:00:00,ORACLE Arena,"Oakland, CA",19596,19596,Suns,Warriors
+265,2016-11-14 21:00:00,Moda Center,"Portland, OR",19362,19441,Nuggets,Trail
+266,2016-11-15 19:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",14825,18165,Magic,Pacers
+267,2016-11-15 19:30:00,Madison Square Garden,"New York, NY",19812,19763,Mavericks,Knicks
+268,2016-11-15 19:30:00,The Palace of Auburn Hills,"Detroit, MI",14172,22076,Thunder,Pistons
+269,2016-11-15 20:00:00,Smoothie King Center,"New Orleans, LA",15001,17188,Celtics,Pelicans
+270,2016-11-15 20:00:00,Toyota Center,"Houston, TX",13183,18104,76ers,Rockets
+271,2016-11-15 20:30:00,AT&T Center,"San Antonio, TX",18418,18581,Heat,Spurs
+272,2016-11-15 21:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",18176,19911,Grizzlies,Jazz
+273,2016-11-15 22:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Nets,Clippers
+274,2016-11-16 19:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Raptors,Cavaliers
+275,2016-11-16 19:30:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Hawks,Heat
+276,2016-11-16 20:00:00,Target Center,"Minneapolis, MN",10349,19356,Hornets,Timberwolves
+277,2016-11-16 22:00:00,Moda Center,"Portland, OR",19393,19441,Bulls,Trail
+278,2016-11-16 22:30:00,STAPLES Center,"Los Angeles, CA",18426,19060,Nets,Lakers
+279,2016-11-17 19:00:00,Wells Fargo Center,"Philadelphia, PA",14863,20318,Wizards,76ers
+280,2016-11-17 19:00:00,Amway Center,"Orlando, FL",16127,18500,Pelicans,Magic
+281,2016-11-17 19:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",17022,18165,Cavaliers,Pacers
+282,2016-11-17 19:30:00,TD Garden,"Boston, MA",18624,18624,Mavericks,Celtics
+283,2016-11-17 19:30:00,Madison Square Garden,"New York, NY",19812,19763,Pistons,Knicks
+284,2016-11-17 19:30:00,Philips Arena,"Atlanta, GA",14656,18729,Bucks,Hawks
+285,2016-11-17 20:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Rockets,Thunder
+286,2016-11-17 20:00:00,Air Canada Centre,"Toronto, ON",21050,19800,Warriors,Raptors
+287,2016-11-17 21:00:00,Pepsi Center,"Denver, CO",10247,19155,Suns,Nuggets
+288,2016-11-17 22:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Grizzlies,Clippers
+289,2016-11-17 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Spurs,Kings
+290,2016-11-18 19:00:00,Verizon Center,"Washington, DC",16704,20173,Knicks,Wizards
+291,2016-11-18 19:30:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Bucks,Heat
+292,2016-11-18 20:00:00,Toyota Center,"Houston, TX",15550,18104,Blazers,Rockets
+293,2016-11-18 20:00:00,Target Center,"Minneapolis, MN",16866,19356,76ers,Timberwolves
+294,2016-11-18 22:30:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Bulls,Jazz
+295,2016-11-19 19:00:00,Spectrum Center,"Charlotte, NC",17989,19077,Hawks,Hornets
+296,2016-11-19 19:30:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Pistons,Cavaliers
+297,2016-11-19 19:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",16780,18165,Suns,Pacers
+298,2016-11-19 20:00:00,Smoothie King Center,"New Orleans, LA",15552,17188,Blazers,Pelicans
+299,2016-11-19 20:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Nets,Thunder
+300,2016-11-19 20:00:00,TD Garden,"Boston, MA",18624,18624,Warriors,Celtics
+301,2016-11-19 20:30:00,American Airlines Center,"Dallas, TX",19715,19200,Grizzlies,Mavericks
+302,2016-11-19 21:00:00,Pepsi Center,"Denver, CO",12476,19155,Raptors,Nuggets
+303,2016-11-19 22:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Spurs,Lakers
+304,2016-11-19 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Clippers,Kings
+305,2016-11-20 17:00:00,Toyota Center,"Houston, TX",14760,18104,Jazz,Rockets
+306,2016-11-20 19:00:00,Smoothie King Center,"New Orleans, LA",15739,17188,Hornets,Pelicans
+307,2016-11-20 19:00:00,Verizon Center,"Washington, DC",15848,20173,Heat,Wizards
+308,2016-11-20 19:00:00,Amway Center,"Orlando, FL",18846,18500,Mavericks,Magic
+309,2016-11-20 19:00:00,The Palace of Auburn Hills,"Detroit, MI",16107,22076,Celtics,Pistons
+310,2016-11-20 19:30:00,Wells Fargo Center,"Philadelphia, PA",18125,20318,Suns,76ers
+311,2016-11-20 20:00:00,FedExForum,"Memphis, TN",17112,18119,Timberwolves,Grizzlies
+312,2016-11-20 20:30:00,BMO Harris Bradley Center,"Milwaukee, WI",18717,18717,Warriors,Bucks
+313,2016-11-20 22:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Bulls,Clippers
+314,2016-11-21 12:00:00,Madison Square Garden,"New York, NY",19812,19763,Hawks,Knicks
+315,2016-11-21 19:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Pacers,Thunder
+316,2016-11-21 21:00:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Raptors,Kings
+317,2016-11-21 21:00:00,Pepsi Center,"Denver, CO",12565,19155,Jazz,Nuggets
+318,2016-11-21 21:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Bulls,Lakers
+319,2016-11-22 19:00:00,Wells Fargo Center,"Philadelphia, PA",16477,20318,Heat,76ers
+320,2016-11-22 19:00:00,Verizon Center,"Washington, DC",12790,20173,Suns,Wizards
+321,2016-11-22 19:00:00,Spectrum Center,"Charlotte, NC",14181,19077,Grizzlies,Hornets
+322,2016-11-22 19:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",17923,18165,Warriors,Pacers
+323,2016-11-22 19:30:00,The Palace of Auburn Hills,"Detroit, MI",13632,22076,Rockets,Pistons
+324,2016-11-22 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",12306,18717,Magic,Bucks
+325,2016-11-22 20:00:00,Target Center,"Minneapolis, MN",13167,19356,Celtics,Timberwolves
+326,2016-11-22 20:30:00,AT&T Center,"San Antonio, TX",18418,18581,Mavericks,Spurs
+327,2016-11-22 22:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Raptors,Clippers
+328,2016-11-23 19:30:00,Madison Square Garden,"New York, NY",19812,19763,Blazers,Knicks
+329,2016-11-23 19:30:00,Philips Arena,"Atlanta, GA",19120,18729,Pelicans,Hawks
+330,2016-11-23 21:00:00,Pepsi Center,"Denver, CO",14328,19155,Bulls,Nuggets
+331,2016-11-23 22:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Thunder,Lakers
+332,2016-11-24 19:00:00,Wells Fargo Center,"Philadelphia, PA",15880,20318,Grizzlies,76ers
+333,2016-11-24 19:00:00,Spectrum Center,"Charlotte, NC",18515,19077,Spurs,Hornets
+334,2016-11-24 19:00:00,Amway Center,"Orlando, FL",17069,18500,Suns,Magic
+335,2016-11-24 19:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Blazers,Cavaliers
+336,2016-11-24 19:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",16032,18165,Hawks,Pacers
+337,2016-11-24 19:30:00,The Palace of Auburn Hills,"Detroit, MI",14520,22076,Heat,Pistons
+338,2016-11-24 20:00:00,Toyota Center,"Houston, TX",18055,18104,Raptors,Rockets
+339,2016-11-24 20:30:00,American Airlines Center,"Dallas, TX",20042,19200,Clippers,Mavericks
+340,2016-11-24 21:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19229,19911,Nuggets,Jazz
+341,2016-11-24 21:30:00,Smoothie King Center,"New Orleans, LA",15555,17188,Timberwolves,Pelicans
+342,2016-11-24 22:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Lakers,Warriors
+343,2016-11-24 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Thunder,Kings
+344,2016-11-26 13:00:00,TD Garden,"Boston, MA",18624,18624,Spurs,Celtics
+345,2016-11-26 19:00:00,Amway Center,"Orlando, FL",17103,18500,Wizards,Magic
+346,2016-11-26 19:30:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Mavericks,Cavaliers
+347,2016-11-26 19:30:00,Madison Square Garden,"New York, NY",19812,19763,Hornets,Knicks
+348,2016-11-26 19:30:00,Wells Fargo Center,"Philadelphia, PA",18234,20318,Bulls,76ers
+349,2016-11-26 19:30:00,The Palace of Auburn Hills,"Detroit, MI",17023,22076,Clippers,Pistons
+350,2016-11-26 20:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Hawks,Jazz
+351,2016-11-26 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",16223,18717,Raptors,Bucks
+352,2016-11-26 20:00:00,FedExForum,"Memphis, TN",17222,18119,Heat,Grizzlies
+353,2016-11-26 20:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",16083,18165,Nets,Pacers
+354,2016-11-26 21:00:00,Pepsi Center,"Denver, CO",14327,19155,Thunder,Nuggets
+355,2016-11-26 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",16728,18422,Timberwolves,Suns
+356,2016-11-26 22:00:00,Moda Center,"Portland, OR",19393,19441,Pelicans,Trail
+357,2016-11-26 22:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Warriors,Lakers
+358,2016-11-26 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Rockets,Kings
+359,2016-11-27 19:00:00,Verizon Center,"Washington, DC",17066,20173,Spurs,Wizards
+360,2016-11-27 19:00:00,Spectrum Center,"Charlotte, NC",19195,19077,Knicks,Hornets
+361,2016-11-27 20:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Pistons,Thunder
+362,2016-11-27 20:00:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Grizzlies,Heat
+363,2016-11-27 22:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Timberwolves,Warriors
+364,2016-11-28 13:00:00,Wells Fargo Center,"Philadelphia, PA",19311,20318,Cavaliers,76ers
+365,2016-11-28 15:30:00,Talking Stick Resort Arena,"Phoenix, AZ",15365,18422,Nuggets,Suns
+366,2016-11-28 18:00:00,Amway Center,"Orlando, FL",16521,18500,Bucks,Magic
+367,2016-11-28 18:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",15572,18165,Clippers,Pacers
+368,2016-11-28 19:00:00,American Airlines Center,"Dallas, TX",19302,19200,Pelicans,Mavericks
+369,2016-11-28 21:00:00,Moda Center,"Portland, OR",19393,19441,Rockets,Trail
+370,2016-11-28 21:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Hawks,Lakers
+371,2016-11-29 19:00:00,Verizon Center,"Washington, DC",12571,20173,Kings,Wizards
+372,2016-11-29 19:30:00,Air Canada Centre,"Toronto, ON",19800,19800,76ers,Raptors
+373,2016-11-29 19:30:00,Madison Square Garden,"New York, NY",19812,19763,Thunder,Knicks
+374,2016-11-29 19:30:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Celtics,Heat
+375,2016-11-29 20:00:00,FedExForum,"Memphis, TN",13143,18119,Hornets,Grizzlies
+376,2016-11-29 20:00:00,Target Center,"Minneapolis, MN",9384,19356,Jazz,Timberwolves
+377,2016-11-29 22:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Hawks,Warriors
+378,2016-11-30 19:00:00,Spectrum Center,"Charlotte, NC",14266,19077,Pistons,Hornets
+379,2016-11-30 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",16559,18717,Cavaliers,Bucks
+380,2016-11-30 20:00:00,Smoothie King Center,"New Orleans, LA",14024,17188,Lakers,Pelicans
+381,2016-11-30 20:30:00,AT&T Center,"San Antonio, TX",18418,18581,Magic,Spurs
+382,2016-11-30 21:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Rockets,Jazz
+383,2016-12-01 19:30:00,TD Garden,"Boston, MA",17338,18624,Pistons,Celtics
+384,2016-12-01 19:30:00,Air Canada Centre,"Toronto, ON",19800,19800,Grizzlies,Raptors
+385,2016-12-01 20:00:00,United Center,"Chicago, IL",21773,20917,Lakers,Bulls
+386,2016-12-01 20:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Wizards,Thunder
+387,2016-12-01 20:00:00,Target Center,"Minneapolis, MN",13987,19356,Knicks,Timberwolves
+388,2016-12-01 20:30:00,American Airlines Center,"Dallas, TX",19245,19200,Spurs,Mavericks
+389,2016-12-01 21:00:00,Pepsi Center,"Denver, CO",11471,19155,Heat,Nuggets
+390,2016-12-01 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",15909,18422,Hawks,Suns
+391,2016-12-01 22:00:00,Moda Center,"Portland, OR",19107,19441,Pacers,Trail
+392,2016-12-03 19:30:00,Air Canada Centre,"Toronto, ON",19800,19800,Lakers,Raptors
+393,2016-12-03 19:30:00,Madison Square Garden,"New York, NY",19812,19763,Timberwolves,Knicks
+394,2016-12-03 20:00:00,United Center,"Chicago, IL",21775,20917,Cavaliers,Bulls
+395,2016-12-03 20:00:00,Smoothie King Center,"New Orleans, LA",16538,17188,Clippers,Pelicans
+396,2016-12-03 20:00:00,Philips Arena,"Atlanta, GA",15500,18729,Pistons,Hawks
+397,2016-12-03 20:30:00,AT&T Center,"San Antonio, TX",18418,18581,Wizards,Spurs
+398,2016-12-03 22:30:00,Pepsi Center,"Denver, CO",15549,19155,Rockets,Nuggets
+399,2016-12-04 17:00:00,BMO Harris Bradley Center,"Milwaukee, WI",15565,18717,Nets,Bucks
+400,2016-12-04 19:00:00,Spectrum Center,"Charlotte, NC",16982,19077,Timberwolves,Hornets
+401,2016-12-04 19:30:00,Air Canada Centre,"Toronto, ON",19800,19800,Hawks,Raptors
+402,2016-12-04 19:30:00,Wells Fargo Center,"Philadelphia, PA",17063,20318,Celtics,76ers
+403,2016-12-04 20:00:00,FedExForum,"Memphis, TN",17017,18119,Lakers,Grizzlies
+404,2016-12-04 20:30:00,American Airlines Center,"Dallas, TX",19857,19200,Bulls,Mavericks
+405,2016-12-04 21:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Nuggets,Jazz
+406,2016-12-04 22:00:00,Moda Center,"Portland, OR",19393,19441,Heat,Trail
+407,2016-12-05 18:00:00,The Palace of Auburn Hills,"Detroit, MI",15206,22076,Magic,Pistons
+408,2016-12-05 19:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Pelicans,Thunder
+409,2016-12-05 19:30:00,Madison Square Garden,"New York, NY",19812,19763,Kings,Knicks
+410,2016-12-05 21:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Pacers,Clippers
+411,2016-12-06 19:00:00,Wells Fargo Center,"Philadelphia, PA",11815,20318,Nuggets,76ers
+412,2016-12-06 19:30:00,Air Canada Centre,"Toronto, ON",19800,19800,Cavaliers,Raptors
+413,2016-12-06 19:30:00,Philips Arena,"Atlanta, GA",14654,18729,Thunder,Hawks
+414,2016-12-06 20:00:00,United Center,"Chicago, IL",21351,20917,Blazers,Bulls
+415,2016-12-06 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",14256,18717,Spurs,Bucks
+416,2016-12-06 20:00:00,Smoothie King Center,"New Orleans, LA",13795,17188,Grizzlies,Pelicans
+417,2016-12-06 20:00:00,Toyota Center,"Houston, TX",15730,18104,Celtics,Rockets
+418,2016-12-06 20:30:00,American Airlines Center,"Dallas, TX",19228,19200,Hornets,Mavericks
+419,2016-12-06 22:30:00,STAPLES Center,"Los Angeles, CA",18279,19060,Jazz,Lakers
+420,2016-12-06 22:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Pacers,Warriors
+421,2016-12-07 19:00:00,Verizon Center,"Washington, DC",12116,20173,Magic,Wizards
+422,2016-12-07 19:30:00,AmericanAirlines Arena,"Miami, FL",19610,19600,Knicks,Heat
+423,2016-12-07 19:30:00,The Palace of Auburn Hills,"Detroit, MI",14305,22076,Bulls,Pistons
+424,2016-12-07 20:00:00,FedExForum,"Memphis, TN",13521,18119,76ers,Grizzlies
+425,2016-12-07 20:00:00,Target Center,"Minneapolis, MN",12585,19356,Spurs,Timberwolves
+426,2016-12-07 21:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",18997,19911,Suns,Jazz
+427,2016-12-08 19:00:00,Spectrum Center,"Charlotte, NC",15141,19077,Pistons,Hornets
+428,2016-12-08 19:00:00,Amway Center,"Orlando, FL",17009,18500,Celtics,Magic
+429,2016-12-08 19:30:00,Philips Arena,"Atlanta, GA",11326,18729,Heat,Hawks
+430,2016-12-08 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",14033,18717,Blazers,Bucks
+431,2016-12-08 20:00:00,Toyota Center,"Houston, TX",16141,18104,Lakers,Rockets
+432,2016-12-08 20:00:00,Madison Square Garden,"New York, NY",19812,19763,Cavaliers,Knicks
+433,2016-12-08 20:30:00,American Airlines Center,"Dallas, TX",19711,19200,Kings,Mavericks
+434,2016-12-08 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",17452,18422,Pacers,Suns
+435,2016-12-08 22:30:00,STAPLES Center,"Los Angeles, CA",19239,19060,Warriors,Clippers
+436,2016-12-09 19:00:00,Air Canada Centre,"Toronto, ON",19800,19800,Timberwolves,Raptors
+437,2016-12-09 19:00:00,Verizon Center,"Washington, DC",12645,20173,Nuggets,Wizards
+438,2016-12-09 20:00:00,FedExForum,"Memphis, TN",14317,18119,Blazers,Grizzlies
+439,2016-12-09 20:00:00,Smoothie King Center,"New Orleans, LA",14158,17188,76ers,Pelicans
+440,2016-12-09 21:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Warriors,Jazz
+441,2016-12-09 21:30:00,United Center,"Chicago, IL",21489,20917,Spurs,Bulls
+442,2016-12-10 19:00:00,Spectrum Center,"Charlotte, NC",15707,19077,Magic,Hornets
+443,2016-12-10 19:30:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Heat,Cavaliers
+444,2016-12-10 19:30:00,TD Garden,"Boston, MA",18624,18624,Raptors,Celtics
+445,2016-12-10 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",16289,18717,Hawks,Bucks
+446,2016-12-10 20:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Rockets,Thunder
+447,2016-12-10 20:00:00,Target Center,"Minneapolis, MN",14109,19356,Pistons,Timberwolves
+448,2016-12-10 20:30:00,American Airlines Center,"Dallas, TX",19486,19200,Pacers,Mavericks
+449,2016-12-10 22:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Suns,Lakers
+450,2016-12-10 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Knicks,Kings
+451,2016-12-11 19:00:00,Verizon Center,"Washington, DC",14816,20173,Bucks,Wizards
+452,2016-12-11 19:00:00,Amway Center,"Orlando, FL",17010,18500,Nuggets,Magic
+453,2016-12-11 19:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",16211,18165,Blazers,Pacers
+454,2016-12-11 19:30:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Hornets,Cavaliers
+455,2016-12-11 20:00:00,United Center,"Chicago, IL",21450,20917,Heat,Bulls
+456,2016-12-11 20:00:00,FedExForum,"Memphis, TN",18119,18119,Warriors,Grizzlies
+457,2016-12-11 20:00:00,Toyota Center,"Houston, TX",15761,18104,Mavericks,Rockets
+458,2016-12-11 20:30:00,AT&T Center,"San Antonio, TX",18418,18581,Nets,Spurs
+459,2016-12-11 21:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19331,19911,Kings,Jazz
+460,2016-12-11 22:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Pelicans,Clippers
+461,2016-12-12 18:00:00,The Palace of Auburn Hills,"Detroit, MI",7244,22076,76ers,Pistons
+462,2016-12-12 19:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Celtics,Thunder
+463,2016-12-12 19:00:00,Target Center,"Minneapolis, MN",18452,19356,Warriors,Timberwolves
+464,2016-12-12 20:30:00,Talking Stick Resort Arena,"Phoenix, AZ",16949,18422,Pelicans,Suns
+465,2016-12-12 21:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Knicks,Lakers
+466,2016-12-13 19:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",14138,18165,Hornets,Pacers
+467,2016-12-13 19:30:00,Air Canada Centre,"Toronto, ON",19800,19800,Bucks,Raptors
+468,2016-12-13 19:30:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Wizards,Heat
+469,2016-12-13 20:00:00,Toyota Center,"Houston, TX",13619,18104,Nets,Rockets
+470,2016-12-13 20:30:00,American Airlines Center,"Dallas, TX",19425,19200,Nuggets,Mavericks
+471,2016-12-13 22:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Blazers,Clippers
+472,2016-12-13 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Lakers,Kings
+473,2016-12-14 19:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Grizzlies,Cavaliers
+474,2016-12-14 19:30:00,Philips Arena,"Atlanta, GA",13585,18729,Magic,Hawks
+475,2016-12-14 20:00:00,United Center,"Chicago, IL",21146,20917,Timberwolves,Bulls
+476,2016-12-14 20:00:00,Smoothie King Center,"New Orleans, LA",17789,17188,Warriors,Pelicans
+477,2016-12-14 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",16429,18422,Knicks,Suns
+478,2016-12-14 22:30:00,Moda Center,"Portland, OR",19505,19441,Thunder,Trail
+479,2016-12-15 19:00:00,Wells Fargo Center,"Philadelphia, PA",16192,20318,Raptors,76ers
+480,2016-12-15 19:00:00,Verizon Center,"Washington, DC",13447,20173,Hornets,Wizards
+481,2016-12-15 19:00:00,Amway Center,"Orlando, FL",18846,18500,Clippers,Magic
+482,2016-12-15 19:00:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Pacers,Heat
+483,2016-12-15 20:00:00,FedExForum,"Memphis, TN",17449,18119,Cavaliers,Grizzlies
+484,2016-12-15 20:00:00,Toyota Center,"Houston, TX",15039,18104,Kings,Rockets
+485,2016-12-15 20:30:00,American Airlines Center,"Dallas, TX",19687,19200,Pistons,Mavericks
+486,2016-12-15 21:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Thunder,Jazz
+487,2016-12-15 21:30:00,AT&T Center,"San Antonio, TX",18418,18581,Celtics,Spurs
+488,2016-12-16 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",16704,18717,Bulls,Bucks
+489,2016-12-16 20:00:00,Smoothie King Center,"New Orleans, LA",15472,17188,Pacers,Pelicans
+490,2016-12-16 21:00:00,Pepsi Center,"Denver, CO",10022,19155,Blazers,Nuggets
+491,2016-12-16 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",17165,18422,Spurs,Suns
+492,2016-12-16 22:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Knicks,Warriors
+493,2016-12-17 19:00:00,Verizon Center,"Washington, DC",15573,20173,Pistons,Wizards
+494,2016-12-17 19:00:00,Amway Center,"Orlando, FL",17668,18500,Nets,Magic
+495,2016-12-17 19:30:00,TD Garden,"Boston, MA",18624,18624,Hornets,Celtics
+496,2016-12-17 19:30:00,Air Canada Centre,"Toronto, ON",19800,19800,Hawks,Raptors
+497,2016-12-17 20:00:00,United Center,"Chicago, IL",21324,20917,Bucks,Bulls
+498,2016-12-17 20:00:00,FedExForum,"Memphis, TN",15987,18119,Kings,Grizzlies
+499,2016-12-17 20:00:00,Toyota Center,"Houston, TX",16728,18104,Pelicans,Rockets
+500,2016-12-17 20:00:00,Wells Fargo Center,"Philadelphia, PA",20491,20318,Lakers,76ers
+501,2016-12-17 20:00:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Clippers,Heat
+502,2016-12-17 22:30:00,Vivint Smart Home Arena,"Salt Lake City, UT",18721,19911,Mavericks,Jazz
+503,2016-12-18 17:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Suns,Thunder
+504,2016-12-18 19:00:00,The Palace of Auburn Hills,"Detroit, MI",15231,22076,Pacers,Pistons
+505,2016-12-18 19:30:00,Philips Arena,"Atlanta, GA",17918,18729,Hornets,Hawks
+506,2016-12-18 19:30:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Lakers,Cavaliers
+507,2016-12-18 20:00:00,Target Center,"Minneapolis, MN",14689,19356,Rockets,Timberwolves
+508,2016-12-18 21:00:00,Pepsi Center,"Denver, CO",12042,19155,Knicks,Nuggets
+509,2016-12-18 22:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Blazers,Warriors
+510,2016-12-19 15:30:00,Verizon Center,"Washington, DC",17380,20173,Clippers,Wizards
+511,2016-12-19 18:00:00,FedExForum,"Memphis, TN",15862,18119,Jazz,Grizzlies
+512,2016-12-19 18:00:00,Wells Fargo Center,"Philadelphia, PA",16460,20318,Nets,76ers
+513,2016-12-19 18:00:00,Amway Center,"Orlando, FL",17251,18500,Raptors,Magic
+514,2016-12-19 18:00:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Celtics,Heat
+515,2016-12-19 16:00:00,American Airlines Center,"Dallas, TX",19504,19200,Kings,Mavericks
+516,2016-12-19 19:00:00,AT&T Center,"San Antonio, TX",18615,18581,Pelicans,Spurs
+517,2016-12-20 19:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",17686,18165,Wizards,Pacers
+518,2016-12-20 20:00:00,United Center,"Chicago, IL",21400,20917,Pistons,Bulls
+519,2016-12-20 20:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Hawks,Thunder
+520,2016-12-20 20:00:00,Target Center,"Minneapolis, MN",12008,19356,Suns,Timberwolves
+521,2016-12-20 21:00:00,Pepsi Center,"Denver, CO",12581,19155,Mavericks,Nuggets
+522,2016-12-21 19:00:00,Wells Fargo Center,"Philadelphia, PA",16322,20318,Pelicans,76ers
+523,2016-12-21 19:00:00,Spectrum Center,"Charlotte, NC",19093,19077,Lakers,Hornets
+524,2016-12-21 19:30:00,Air Canada Centre,"Toronto, ON",19800,19800,Nets,Raptors
+525,2016-12-21 19:30:00,Madison Square Garden,"New York, NY",19812,19763,Pacers,Knicks
+526,2016-12-21 19:30:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Magic,Heat
+527,2016-12-21 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",17053,18717,Cavaliers,Bucks
+528,2016-12-21 20:00:00,FedExForum,"Memphis, TN",16519,18119,Celtics,Grizzlies
+529,2016-12-21 20:00:00,Toyota Center,"Houston, TX",18055,18104,Spurs,Rockets
+530,2016-12-21 22:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Nuggets,Clippers
+531,2016-12-21 22:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Jazz,Warriors
+532,2016-12-21 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Blazers,Kings
+533,2016-12-22 19:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Bucks,Cavaliers
+534,2016-12-22 19:30:00,Philips Arena,"Atlanta, GA",17578,18729,Timberwolves,Hawks
+535,2016-12-22 19:30:00,The Palace of Auburn Hills,"Detroit, MI",16033,22076,Grizzlies,Pistons
+536,2016-12-22 20:00:00,United Center,"Chicago, IL",21358,20917,Wizards,Bulls
+537,2016-12-22 20:00:00,Smoothie King Center,"New Orleans, LA",16375,17188,Thunder,Pelicans
+538,2016-12-22 21:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19195,19911,Kings,Jazz
+539,2016-12-22 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",18055,18422,Rockets,Suns
+540,2016-12-22 22:00:00,Moda Center,"Portland, OR",19393,19441,Mavericks,Trail
+541,2016-12-23 19:30:00,Madison Square Garden,"New York, NY",19812,19763,Magic,Knicks
+542,2016-12-23 20:00:00,AmericanAirlines Arena,"Miami, FL",19712,19600,Lakers,Heat
+543,2016-12-23 19:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",17577,18165,Celtics,Pacers
+544,2016-12-23 22:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Spurs,Clippers
+545,2016-12-24 19:00:00,Spectrum Center,"Charlotte, NC",19249,19077,Bulls,Hornets
+546,2016-12-24 19:00:00,Amway Center,"Orlando, FL",18846,18500,Lakers,Magic
+547,2016-12-24 19:30:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Nets,Cavaliers
+548,2016-12-24 19:30:00,TD Garden,"Boston, MA",18624,18624,Thunder,Celtics
+549,2016-12-24 19:30:00,The Palace of Auburn Hills,"Detroit, MI",21012,22076,Warriors,Pistons
+550,2016-12-24 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",15921,18717,Wizards,Bucks
+551,2016-12-24 20:00:00,FedExForum,"Memphis, TN",17454,18119,Rockets,Grizzlies
+552,2016-12-24 20:00:00,Smoothie King Center,"New Orleans, LA",16322,17188,Heat,Pelicans
+553,2016-12-24 20:00:00,Target Center,"Minneapolis, MN",13288,19356,Kings,Timberwolves
+554,2016-12-24 21:00:00,Pepsi Center,"Denver, CO",13823,19155,Hawks,Nuggets
+555,2016-12-24 21:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Raptors,Jazz
+556,2016-12-24 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",16535,18422,76ers,Suns
+557,2016-12-24 22:00:00,Moda Center,"Portland, OR",19393,19441,Spurs,Trail
+558,2016-12-24 22:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Mavericks,Clippers
+559,2016-12-26 12:00:00,Madison Square Garden,"New York, NY",19812,19763,Celtics,Knicks
+560,2016-12-26 14:30:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Warriors,Cavaliers
+561,2016-12-26 17:18:00,AT&T Center,"San Antonio, TX",18428,18581,Bulls,Spurs
+562,2016-12-26 20:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Timberwolves,Thunder
+563,2016-12-26 22:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Clippers,Lakers
+564,2016-12-27 19:00:00,Verizon Center,"Washington, DC",15773,20173,Bucks,Wizards
+565,2016-12-27 19:00:00,Amway Center,"Orlando, FL",17104,18500,Grizzlies,Magic
+566,2016-12-27 19:30:00,The Palace of Auburn Hills,"Detroit, MI",18123,22076,Cavaliers,Pistons
+567,2016-12-27 20:00:00,United Center,"Chicago, IL",21922,20917,Pacers,Bulls
+568,2016-12-27 20:00:00,Smoothie King Center,"New Orleans, LA",15764,17188,Mavericks,Pelicans
+569,2016-12-27 20:00:00,Toyota Center,"Houston, TX",18055,18104,Suns,Rockets
+570,2016-12-27 20:00:00,Target Center,"Minneapolis, MN",15617,19356,Hawks,Timberwolves
+571,2016-12-27 22:00:00,Moda Center,"Portland, OR",19393,19441,Raptors,Trail
+572,2016-12-27 22:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Nuggets,Clippers
+573,2016-12-27 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,76ers,Kings
+574,2016-12-28 19:30:00,TD Garden,"Boston, MA",18624,18624,Grizzlies,Celtics
+575,2016-12-28 19:30:00,AmericanAirlines Arena,"Miami, FL",19977,19600,Thunder,Heat
+576,2016-12-28 20:30:00,American Airlines Center,"Dallas, TX",20425,19200,Rockets,Mavericks
+577,2016-12-28 22:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Jazz,Lakers
+578,2016-12-29 19:00:00,Verizon Center,"Washington, DC",16172,20173,Pacers,Wizards
+579,2016-12-29 19:00:00,Amway Center,"Orlando, FL",18273,18500,Hornets,Magic
+580,2016-12-29 19:30:00,Philips Arena,"Atlanta, GA",19066,18729,Knicks,Hawks
+581,2016-12-29 19:30:00,The Palace of Auburn Hills,"Detroit, MI",17222,22076,Bucks,Pistons
+582,2016-12-29 20:00:00,United Center,"Chicago, IL",21957,20917,Nets,Bulls
+583,2016-12-29 20:00:00,Smoothie King Center,"New Orleans, LA",16647,17188,Clippers,Pelicans
+584,2016-12-29 20:30:00,AT&T Center,"San Antonio, TX",18418,18581,Suns,Spurs
+585,2016-12-29 21:00:00,Pepsi Center,"Denver, CO",15093,19155,Timberwolves,Nuggets
+586,2016-12-29 22:00:00,Moda Center,"Portland, OR",19665,19441,Kings,Trail
+587,2016-12-29 22:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Raptors,Warriors
+588,2016-12-30 19:00:00,Spectrum Center,"Charlotte, NC",19471,19077,Heat,Hornets
+589,2016-12-30 20:00:00,FedExForum,"Memphis, TN",18119,18119,Thunder,Grizzlies
+590,2016-12-30 20:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Celtics,Cavaliers
+591,2016-12-30 21:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,76ers,Jazz
+592,2016-12-30 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",18055,18422,Raptors,Suns
+593,2016-12-30 22:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Mavericks,Lakers
+594,2016-12-31 16:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",17923,18165,Bulls,Pacers
+595,2016-12-31 19:00:00,Verizon Center,"Washington, DC",16461,20173,Nets,Wizards
+596,2016-12-31 19:30:00,TD Garden,"Boston, MA",18624,18624,Heat,Celtics
+597,2016-12-31 20:00:00,Smoothie King Center,"New Orleans, LA",18124,17188,Knicks,Pelicans
+598,2016-12-31 20:00:00,Toyota Center,"Houston, TX",18055,18104,Clippers,Rockets
+599,2016-12-31 20:00:00,Target Center,"Minneapolis, MN",17779,19356,Bucks,Timberwolves
+600,2016-12-31 20:00:00,Philips Arena,"Atlanta, GA",19009,18729,Pistons,Hawks
+601,2016-12-31 20:30:00,AT&T Center,"San Antonio, TX",18418,18581,Blazers,Spurs
+602,2016-12-31 21:00:00,Pepsi Center,"Denver, CO",13619,19155,76ers,Nuggets
+603,2016-12-31 22:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Mavericks,Warriors
+604,2017-01-01 17:00:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Grizzlies,Kings
+605,2017-01-01 19:00:00,United Center,"Chicago, IL",21838,20917,Bucks,Bulls
+606,2017-01-01 20:00:00,Toyota Center,"Houston, TX",18055,18104,Knicks,Rockets
+607,2017-01-01 19:00:00,Spectrum Center,"Charlotte, NC",19519,19077,Cavaliers,Hornets
+608,2017-01-01 20:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Suns,Jazz
+609,2017-01-01 20:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Clippers,Thunder
+610,2017-01-05 19:00:00,Spectrum Center,"Charlotte, NC",18418,19077,Thunder,Hornets
+611,2017-01-05 19:00:00,Amway Center,"Orlando, FL",18846,18500,Hawks,Magic
+612,2017-01-05 19:30:00,Madison Square Garden,"New York, NY",19812,19763,Bucks,Knicks
+613,2017-01-05 20:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Bulls,Cavaliers
+614,2017-01-05 22:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Grizzlies,Clippers
+615,2017-01-05 22:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Blazers,Warriors
+616,2017-01-05 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Heat,Kings
+617,2017-01-06 19:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",16421,18165,Nets,Pacers
+618,2017-01-06 19:30:00,Air Canada Centre,"Toronto, ON",19800,19800,Jazz,Raptors
+619,2017-01-06 19:30:00,The Palace of Auburn Hills,"Detroit, MI",13723,22076,Hornets,Pistons
+620,2017-01-06 20:00:00,Smoothie King Center,"New Orleans, LA",15003,17188,Hawks,Pelicans
+621,2017-01-06 20:00:00,Toyota Center,"Houston, TX",18055,18104,Thunder,Rockets
+622,2017-01-06 20:30:00,American Airlines Center,"Dallas, TX",19570,19200,Suns,Mavericks
+623,2017-01-06 22:30:00,Moda Center,"Portland, OR",19403,19441,Lakers,Trail
+624,2017-01-06 21:00:00,Pepsi Center,"Denver, CO",14391,19155,Spurs,Nuggets
+625,2017-01-07 19:00:00,Verizon Center,"Washington, DC",18686,20173,Timberwolves,Wizards
+626,2017-01-07 19:00:00,Amway Center,"Orlando, FL",19272,18500,Rockets,Magic
+627,2017-01-07 19:30:00,TD Garden,"Boston, MA",18624,18624,76ers,Celtics
+628,2017-01-07 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",18717,18717,Knicks,Bucks
+629,2017-01-07 22:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Heat,Lakers
+630,2017-01-07 22:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Grizzlies,Warriors
+631,2017-01-07 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Clippers,Kings
+632,2017-01-08 19:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",17367,18165,Knicks,Pacers
+633,2017-01-08 19:30:00,TD Garden,"Boston, MA",18624,18624,Pelicans,Celtics
+634,2017-01-08 20:00:00,United Center,"Chicago, IL",21195,20917,Raptors,Bulls
+635,2017-01-08 20:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Nuggets,Thunder
+636,2017-01-08 20:00:00,Target Center,"Minneapolis, MN",13945,19356,Jazz,Timberwolves
+637,2017-01-08 20:30:00,American Airlines Center,"Dallas, TX",19655,19200,Hawks,Mavericks
+638,2017-01-08 20:30:00,AT&T Center,"San Antonio, TX",18418,18581,Hornets,Spurs
+639,2017-01-08 22:00:00,Moda Center,"Portland, OR",13506,19441,Pistons,Trail
+640,2017-01-09 15:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Heat,Clippers
+641,2017-01-09 14:00:00,BMO Harris Bradley Center,"Milwaukee, WI",15311,18717,Wizards,Bucks
+642,2017-01-09 18:00:00,Air Canada Centre,"Toronto, ON",19800,19800,Rockets,Raptors
+643,2017-01-09 20:00:00,FedExForum,"Memphis, TN",16112,18119,Jazz,Grizzlies
+644,2017-01-09 20:30:00,Talking Stick Resort Arena,"Phoenix, AZ",18055,18422,Cavaliers,Suns
+645,2017-01-09 21:00:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Warriors,Kings
+646,2017-01-09 21:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Magic,Lakers
+647,2017-01-10 19:30:00,Madison Square Garden,"New York, NY",19812,19763,Pelicans,Knicks
+648,2017-01-10 20:00:00,United Center,"Chicago, IL",21923,20917,Thunder,Bulls
+649,2017-01-10 20:00:00,Target Center,"Minneapolis, MN",9625,19356,Mavericks,Timberwolves
+650,2017-01-11 19:00:00,Verizon Center,"Washington, DC",14361,20173,Bulls,Wizards
+651,2017-01-11 19:30:00,Air Canada Centre,"Toronto, ON",19800,19800,Celtics,Raptors
+652,2017-01-11 20:00:00,Toyota Center,"Houston, TX",16196,18104,Hornets,Rockets
+653,2017-01-11 20:30:00,AT&T Center,"San Antonio, TX",18418,18581,Bucks,Spurs
+654,2017-01-11 21:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Cavaliers,Jazz
+655,2017-01-11 22:30:00,STAPLES Center,"Los Angeles, CA",18483,19060,Blazers,Lakers
+656,2017-01-11 22:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Heat,Warriors
+657,2017-01-11 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Pistons,Kings
+658,2017-01-12 19:00:00,Wells Fargo Center,"Philadelphia, PA",18755,20318,Knicks,76ers
+659,2017-01-12 20:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Grizzlies,Thunder
+660,2017-01-12 20:00:00,Target Center,"Minneapolis, MN",13858,19356,Rockets,Timberwolves
+661,2017-01-12 20:00:00,TD Garden,"Boston, MA",18624,18624,Wizards,Celtics
+662,2017-01-12 22:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Magic,Clippers
+663,2017-01-12 22:30:00,Moda Center,"Portland, OR",19393,19441,Cavaliers,Trail
+664,2017-01-13 20:00:00,Madison Square Garden,"New York, NY",19812,19763,Bulls,Knicks
+665,2017-01-13 20:30:00,AT&T Center,"San Antonio, TX",18418,18581,Lakers,Spurs
+666,2017-01-13 22:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Pistons,Warriors
+667,2017-01-14 19:30:00,Air Canada Centre,"Toronto, ON",19800,19800,Nets,Raptors
+668,2017-01-14 19:00:00,Wells Fargo Center,"Philadelphia, PA",18215,20318,Hornets,76ers
+669,2017-01-14 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",17483,18717,Heat,Bucks
+670,2017-01-14 20:00:00,Toyota Center,"Houston, TX",18055,18104,Grizzlies,Rockets
+671,2017-01-14 20:00:00,Target Center,"Minneapolis, MN",16644,19356,Thunder,Timberwolves
+672,2017-01-14 20:00:00,Philips Arena,"Atlanta, GA",18216,18729,Celtics,Hawks
+673,2017-01-14 22:00:00,Moda Center,"Portland, OR",19344,19441,Magic,Trail
+674,2017-01-14 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Cavaliers,Kings
+675,2017-01-14 22:30:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Pistons,Jazz
+676,2017-01-15 15:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Lakers,Clippers
+677,2017-01-15 17:00:00,United Center,"Chicago, IL",21916,20917,Pelicans,Bulls
+678,2017-01-15 20:00:00,Verizon Center,"Washington, DC",17880,20173,76ers,Wizards
+679,2017-01-15 21:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Magic,Jazz
+680,2017-01-16 15:00:00,Air Canada Centre,"Toronto, ON",19800,19800,Knicks,Raptors
+681,2017-01-16 15:00:00,Philips Arena,"Atlanta, GA",14231,18729,Bucks,Hawks
+682,2017-01-16 14:00:00,American Airlines Center,"Dallas, TX",19655,19200,Timberwolves,Mavericks
+683,2017-01-16 21:00:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Thunder,Kings
+684,2017-01-16 21:00:00,FedExForum,"Memphis, TN",18119,18119,Bulls,Grizzlies
+685,2017-01-16 21:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Pistons,Lakers
+686,2017-01-17 13:00:00,Madison Square Garden,"New York, NY",19812,19763,Hawks,Knicks
+687,2017-01-17 14:00:00,Verizon Center,"Washington, DC",17395,20173,Blazers,Wizards
+688,2017-01-17 15:30:00,BMO Harris Bradley Center,"Milwaukee, WI",13261,18717,76ers,Bucks
+689,2017-01-17 16:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",15525,18165,Pelicans,Pacers
+690,2017-01-17 17:00:00,Pepsi Center,"Denver, CO",11217,19155,Magic,Nuggets
+691,2017-01-17 19:30:00,TD Garden,"Boston, MA",18624,18624,Hornets,Celtics
+692,2017-01-17 20:00:00,ORACLE Arena,"Oakland, CA",19596,19596,Cavaliers,Warriors
+693,2017-01-17 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",16767,18422,Jazz,Suns
+694,2017-01-17 22:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Thunder,Clippers
+695,2017-01-18 19:30:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Rockets,Heat
+696,2017-01-18 20:00:00,United Center,"Chicago, IL",21294,20917,Mavericks,Bulls
+697,2017-01-18 20:30:00,AT&T Center,"San Antonio, TX",18418,18581,Timberwolves,Spurs
+698,2017-01-18 22:30:00,STAPLES Center,"Los Angeles, CA",18412,19060,Nuggets,Lakers
+699,2017-01-19 19:00:00,Wells Fargo Center,"Philadelphia, PA",17223,20318,Raptors,76ers
+700,2017-01-19 19:00:00,Verizon Center,"Washington, DC",15079,20173,Grizzlies,Wizards
+701,2017-01-19 19:00:00,Spectrum Center,"Charlotte, NC",15451,19077,Blazers,Hornets
+702,2017-01-19 19:30:00,TD Garden,"Boston, MA",18624,18624,Knicks,Celtics
+703,2017-01-19 20:00:00,Smoothie King Center,"New Orleans, LA",15818,17188,Magic,Pelicans
+704,2017-01-19 20:00:00,Toyota Center,"Houston, TX",15782,18104,Bucks,Rockets
+705,2017-01-19 20:00:00,The Palace of Auburn Hills,"Detroit, MI",15159,22076,Hawks,Pistons
+706,2017-01-19 22:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Thunder,Warriors
+707,2017-01-19 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Pacers,Kings
+708,2017-01-20 19:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Suns,Cavaliers
+709,2017-01-20 19:30:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Mavericks,Heat
+710,2017-01-20 20:00:00,Madison Square Garden,"New York, NY",19812,19763,Wizards,Knicks
+711,2017-01-20 20:30:00,AT&T Center,"San Antonio, TX",18418,18581,Nuggets,Spurs
+712,2017-01-20 22:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Timberwolves,Clippers
+713,2017-01-21 19:00:00,Wells Fargo Center,"Philadelphia, PA",19476,20318,Blazers,76ers
+714,2017-01-21 19:00:00,Spectrum Center,"Charlotte, NC",18378,19077,Raptors,Hornets
+715,2017-01-21 19:00:00,Amway Center,"Orlando, FL",19307,18500,Bucks,Magic
+716,2017-01-21 20:00:00,FedExForum,"Memphis, TN",16991,18119,Kings,Grizzlies
+717,2017-01-21 20:00:00,Smoothie King Center,"New Orleans, LA",17004,17188,Nets,Pelicans
+718,2017-01-21 20:00:00,Toyota Center,"Houston, TX",18055,18104,Warriors,Rockets
+719,2017-01-21 20:00:00,Philips Arena,"Atlanta, GA",16328,18729,Bulls,Hawks
+720,2017-01-21 20:30:00,American Airlines Center,"Dallas, TX",19421,19200,Jazz,Mavericks
+721,2017-01-21 22:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Pacers,Lakers
+722,2017-01-22 17:00:00,TD Garden,"Boston, MA",18624,18624,Blazers,Celtics
+723,2017-01-22 18:00:00,The Palace of Auburn Hills,"Detroit, MI",18231,22076,Wizards,Pistons
+724,2017-01-22 19:00:00,Spectrum Center,"Charlotte, NC",18583,19077,Nets,Hornets
+725,2017-01-22 19:00:00,Philips Arena,"Atlanta, GA",15116,18729,76ers,Hawks
+726,2017-01-22 19:30:00,Madison Square Garden,"New York, NY",19812,19763,Suns,Knicks
+727,2017-01-22 19:30:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Bucks,Heat
+728,2017-01-22 20:00:00,FedExForum,"Memphis, TN",18119,18119,Rockets,Grizzlies
+729,2017-01-22 20:30:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Spurs,Cavaliers
+730,2017-01-22 21:00:00,Pepsi Center,"Denver, CO",16056,19155,Clippers,Nuggets
+731,2017-01-22 21:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Pacers,Jazz
+732,2017-01-22 21:00:00,United Center,"Chicago, IL",21606,20917,Kings,Bulls
+733,2017-01-23 12:00:00,Amway Center,"Orlando, FL",18846,18500,Warriors,Magic
+734,2017-01-23 15:30:00,American Airlines Center,"Dallas, TX",19484,19200,Lakers,Mavericks
+735,2017-01-23 18:00:00,Air Canada Centre,"Toronto, ON",19800,19800,Suns,Raptors
+736,2017-01-23 19:00:00,Target Center,"Minneapolis, MN",12788,19356,Nuggets,Timberwolves
+737,2017-01-24 19:00:00,Spectrum Center,"Charlotte, NC",15285,19077,Wizards,Hornets
+738,2017-01-24 19:30:00,Philips Arena,"Atlanta, GA",12853,18729,Clippers,Hawks
+739,2017-01-24 19:30:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Warriors,Heat
+740,2017-01-24 19:30:00,The Palace of Auburn Hills,"Detroit, MI",14017,22076,Kings,Pistons
+741,2017-01-24 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",14016,18717,Rockets,Bucks
+742,2017-01-24 20:00:00,Smoothie King Center,"New Orleans, LA",17758,17188,Cavaliers,Pelicans
+743,2017-01-24 20:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",16015,18165,Knicks,Pacers
+744,2017-01-24 21:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Thunder,Jazz
+745,2017-01-25 19:00:00,Air Canada Centre,"Toronto, ON",19800,19800,Spurs,Raptors
+746,2017-01-25 19:00:00,Wells Fargo Center,"Philadelphia, PA",17591,20318,Clippers,76ers
+747,2017-01-25 19:00:00,Verizon Center,"Washington, DC",16387,20173,Celtics,Wizards
+748,2017-01-25 19:00:00,Amway Center,"Orlando, FL",18846,18500,Bulls,Magic
+749,2017-01-25 21:00:00,Pepsi Center,"Denver, CO",10867,19155,Jazz,Nuggets
+750,2017-01-25 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",17241,18422,Timberwolves,Suns
+751,2017-01-26 19:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Kings,Cavaliers
+752,2017-01-26 19:30:00,TD Garden,"Boston, MA",18624,18624,Rockets,Celtics
+753,2017-01-26 20:00:00,United Center,"Chicago, IL",21445,20917,Hawks,Bulls
+754,2017-01-26 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",13663,18717,76ers,Bucks
+755,2017-01-26 20:00:00,FedExForum,"Memphis, TN",15904,18119,Raptors,Grizzlies
+756,2017-01-26 20:00:00,Smoothie King Center,"New Orleans, LA",15277,17188,Thunder,Pelicans
+757,2017-01-26 20:00:00,Spectrum Center,"Charlotte, NC",19639,19077,Warriors,Hornets
+758,2017-01-26 20:30:00,American Airlines Center,"Dallas, TX",19750,19200,Knicks,Mavericks
+759,2017-01-26 22:30:00,Moda Center,"Portland, OR",19393,19441,Lakers,Trail
+760,2017-01-27 20:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Mavericks,Thunder
+761,2017-01-27 20:00:00,Target Center,"Minneapolis, MN",14862,19356,Pacers,Timberwolves
+762,2017-01-27 21:00:00,Pepsi Center,"Denver, CO",12231,19155,Suns,Nuggets
+763,2017-01-27 22:30:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Lakers,Jazz
+764,2017-01-28 20:00:00,Wells Fargo Center,"Philadelphia, PA",20588,20318,Rockets,76ers
+765,2017-01-28 19:30:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Nets,Cavaliers
+766,2017-01-28 19:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",17522,18165,Kings,Pacers
+767,2017-01-28 19:30:00,TD Garden,"Boston, MA",18624,18624,Magic,Celtics
+768,2017-01-28 19:30:00,Air Canada Centre,"Toronto, ON",19800,19800,Bucks,Raptors
+769,2017-01-28 19:30:00,Madison Square Garden,"New York, NY",19812,19763,Hornets,Knicks
+770,2017-01-28 20:00:00,United Center,"Chicago, IL",22082,20917,Heat,Bulls
+771,2017-01-28 20:00:00,Smoothie King Center,"New Orleans, LA",17757,17188,Spurs,Pelicans
+772,2017-01-28 20:00:00,Philips Arena,"Atlanta, GA",16968,18729,Wizards,Hawks
+773,2017-01-28 22:00:00,Moda Center,"Portland, OR",19558,19441,Grizzlies,Trail
+774,2017-01-29 19:00:00,Spectrum Center,"Charlotte, NC",18597,19077,Kings,Hornets
+775,2017-01-29 19:30:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Pistons,Heat
+776,2017-01-29 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",18717,18717,Celtics,Bucks
+777,2017-01-29 20:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Clippers,Warriors
+778,2017-01-29 21:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Grizzlies,Jazz
+779,2017-01-29 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",18055,18422,Nuggets,Suns
+780,2017-01-29 21:00:00,Target Center,"Minneapolis, MN",14798,19356,Nets,Timberwolves
+781,2017-01-30 15:00:00,Philips Arena,"Atlanta, GA",13643,18729,Knicks,Hawks
+782,2017-01-30 15:30:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Thunder,Cavaliers
+783,2017-01-30 18:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",17923,18165,Rockets,Pacers
+784,2017-01-30 18:00:00,Smoothie King Center,"New Orleans, LA",16779,17188,Wizards,Pelicans
+785,2017-01-30 18:00:00,Air Canada Centre,"Toronto, ON",19800,19800,Magic,Raptors
+786,2017-01-30 19:00:00,United Center,"Chicago, IL",21606,20917,76ers,Bulls
+787,2017-01-30 19:00:00,AT&T Center,"San Antonio, TX",18418,18581,Mavericks,Spurs
+788,2017-01-30 21:00:00,Moda Center,"Portland, OR",19393,19441,Warriors,Trail
+789,2017-01-31 19:30:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Nets,Heat
+790,2017-01-31 20:00:00,Target Center,"Minneapolis, MN",11124,19356,Magic,Timberwolves
+791,2017-01-31 20:00:00,TD Garden,"Boston, MA",18188,18624,Pistons,Celtics
+792,2017-01-31 20:30:00,American Airlines Center,"Dallas, TX",20202,19200,Cavaliers,Mavericks
+793,2017-01-31 22:30:00,Talking Stick Resort Arena,"Phoenix, AZ",16332,18422,Grizzlies,Suns
+794,2017-02-01 19:00:00,Verizon Center,"Washington, DC",16683,20173,Knicks,Wizards
+795,2017-02-01 19:00:00,Air Canada Centre,"Toronto, ON",19800,19800,Pelicans,Raptors
+796,2017-02-01 20:00:00,Toyota Center,"Houston, TX",15187,18104,Kings,Rockets
+797,2017-02-01 20:30:00,AT&T Center,"San Antonio, TX",18418,18581,Thunder,Spurs
+798,2017-02-01 22:00:00,Moda Center,"Portland, OR",19393,19441,Hornets,Trail
+799,2017-02-01 22:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Nuggets,Lakers
+800,2017-02-04 19:00:00,Amway Center,"Orlando, FL",17141,18500,Raptors,Magic
+801,2017-02-04 19:30:00,The Palace of Auburn Hills,"Detroit, MI",16934,22076,Timberwolves,Pistons
+802,2017-02-04 20:00:00,Toyota Center,"Houston, TX",18055,18104,Bulls,Rockets
+803,2017-02-04 20:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Grizzlies,Thunder
+804,2017-02-04 20:00:00,TD Garden,"Boston, MA",18624,18624,Lakers,Celtics
+805,2017-02-04 21:00:00,Pepsi Center,"Denver, CO",18792,19155,Bucks,Nuggets
+806,2017-02-04 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Suns,Kings
+807,2017-02-04 22:30:00,Moda Center,"Portland, OR",19393,19441,Mavericks,Trail
+808,2017-02-05 19:00:00,Verizon Center,"Washington, DC",19651,20173,Pelicans,Wizards
+809,2017-02-05 19:00:00,Philips Arena,"Atlanta, GA",16691,18729,Magic,Hawks
+810,2017-02-05 19:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",17660,18165,Pistons,Pacers
+811,2017-02-05 19:30:00,AmericanAirlines Arena,"Miami, FL",19754,19600,76ers,Heat
+812,2017-02-05 20:30:00,Madison Square Garden,"New York, NY",19812,19763,Cavaliers,Knicks
+813,2017-02-05 21:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Hornets,Jazz
+814,2017-02-05 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",17192,18422,Bucks,Suns
+815,2017-02-05 21:00:00,AT&T Center,"San Antonio, TX",18418,18581,Nuggets,Spurs
+816,2017-02-05 21:00:00,Target Center,"Minneapolis, MN",15081,19356,Grizzlies,Timberwolves
+817,2017-02-05 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Warriors,Kings
+818,2017-02-06 14:00:00,TD Garden,"Boston, MA",18624,18624,Clippers,Celtics
+819,2017-02-06 15:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Blazers,Thunder
+820,2017-02-07 19:00:00,Madison Square Garden,"New York, NY",19812,19763,Lakers,Knicks
+821,2017-02-07 19:00:00,Verizon Center,"Washington, DC",20356,20173,Cavaliers,Wizards
+822,2017-02-07 19:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",16123,18165,Thunder,Pacers
+823,2017-02-07 19:30:00,Air Canada Centre,"Toronto, ON",19800,19800,Clippers,Raptors
+824,2017-02-07 19:30:00,Philips Arena,"Atlanta, GA",13126,18729,Jazz,Hawks
+825,2017-02-07 19:30:00,The Palace of Auburn Hills,"Detroit, MI",14731,22076,76ers,Pistons
+826,2017-02-07 20:00:00,Smoothie King Center,"New Orleans, LA",15888,17188,Suns,Pelicans
+827,2017-02-07 20:00:00,Target Center,"Minneapolis, MN",12502,19356,Heat,Timberwolves
+828,2017-02-07 21:00:00,Pepsi Center,"Denver, CO",13047,19155,Mavericks,Nuggets
+829,2017-02-07 21:30:00,FedExForum,"Memphis, TN",16708,18119,Spurs,Grizzlies
+830,2017-02-07 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Bulls,Kings
+831,2017-02-08 19:00:00,Spectrum Center,"Charlotte, NC",15322,19077,Nets,Hornets
+832,2017-02-08 20:00:00,Toyota Center,"Houston, TX",15514,18104,Magic,Rockets
+833,2017-02-08 20:30:00,American Airlines Center,"Dallas, TX",19326,19200,Blazers,Mavericks
+834,2017-02-09 19:00:00,Wells Fargo Center,"Philadelphia, PA",19233,20318,Spurs,76ers
+835,2017-02-09 19:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",17580,18165,Cavaliers,Pacers
+836,2017-02-09 19:30:00,Philips Arena,"Atlanta, GA",14222,18729,Nuggets,Hawks
+837,2017-02-09 19:30:00,The Palace of Auburn Hills,"Detroit, MI",15121,22076,Lakers,Pistons
+838,2017-02-09 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",14211,18717,Heat,Bucks
+839,2017-02-09 20:00:00,FedExForum,"Memphis, TN",16044,18119,Suns,Grizzlies
+840,2017-02-09 20:00:00,Smoothie King Center,"New Orleans, LA",14508,17188,Jazz,Pelicans
+841,2017-02-09 20:00:00,Target Center,"Minneapolis, MN",13832,19356,Raptors,Timberwolves
+842,2017-02-09 20:00:00,Madison Square Garden,"New York, NY",19812,19763,Clippers,Knicks
+843,2017-02-09 22:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Bulls,Warriors
+844,2017-02-09 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Celtics,Kings
+845,2017-02-10 19:00:00,Spectrum Center,"Charlotte, NC",16270,19077,Rockets,Hornets
+846,2017-02-10 19:00:00,Amway Center,"Orlando, FL",17829,18500,76ers,Magic
+847,2017-02-10 20:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Cavaliers,Thunder
+848,2017-02-10 20:30:00,American Airlines Center,"Dallas, TX",19883,19200,Jazz,Mavericks
+849,2017-02-10 22:30:00,Moda Center,"Portland, OR",19393,19441,Celtics,Trail
+850,2017-02-11 19:30:00,Madison Square Garden,"New York, NY",19812,19763,Nuggets,Knicks
+851,2017-02-11 19:30:00,The Palace of Auburn Hills,"Detroit, MI",17222,22076,Spurs,Pistons
+852,2017-02-11 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",16380,18717,Lakers,Bucks
+853,2017-02-11 20:00:00,FedExForum,"Memphis, TN",18119,18119,Warriors,Grizzlies
+854,2017-02-11 20:00:00,Target Center,"Minneapolis, MN",16093,19356,Pelicans,Timberwolves
+855,2017-02-11 20:00:00,Verizon Center,"Washington, DC",19503,20173,Pacers,Wizards
+856,2017-02-11 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Hawks,Kings
+857,2017-02-11 22:30:00,Talking Stick Resort Arena,"Phoenix, AZ",18055,18422,Bulls,Suns
+858,2017-02-12 17:00:00,Spectrum Center,"Charlotte, NC",19483,19077,Clippers,Hornets
+859,2017-02-12 19:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",17923,18165,Bucks,Pacers
+860,2017-02-12 19:30:00,Wells Fargo Center,"Philadelphia, PA",20698,20318,Heat,76ers
+861,2017-02-12 19:30:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Nuggets,Cavaliers
+862,2017-02-12 21:00:00,Toyota Center,"Houston, TX",18055,18104,Suns,Rockets
+863,2017-02-12 20:30:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Warriors,Thunder
+864,2017-02-12 21:00:00,American Airlines Center,"Dallas, TX",20052,19200,Magic,Mavericks
+865,2017-02-12 22:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Celtics,Jazz
+866,2017-02-13 15:30:00,Target Center,"Minneapolis, MN",19356,19356,Bulls,Timberwolves
+867,2017-02-13 15:30:00,Madison Square Garden,"New York, NY",19812,19763,Spurs,Knicks
+868,2017-02-13 18:00:00,Air Canada Centre,"Toronto, ON",19800,19800,Pistons,Raptors
+869,2017-02-13 21:00:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Pelicans,Kings
+870,2017-02-14 20:00:00,Verizon Center,"Washington, DC",20356,20173,Thunder,Wizards
+871,2017-02-14 19:00:00,Spectrum Center,"Charlotte, NC",15775,19077,76ers,Hornets
+872,2017-02-14 19:30:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Magic,Heat
+873,2017-02-14 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",13397,18717,Pistons,Bucks
+874,2017-02-14 19:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",15203,18165,Spurs,Pacers
+875,2017-02-14 20:30:00,American Airlines Center,"Dallas, TX",20159,19200,Celtics,Mavericks
+876,2017-02-14 21:00:00,Pepsi Center,"Denver, CO",19941,19155,Warriors,Nuggets
+877,2017-02-14 21:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19521,19911,Clippers,Jazz
+878,2017-02-14 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",16321,18422,Pelicans,Suns
+879,2017-02-14 22:30:00,Moda Center,"Portland, OR",19475,19441,Hawks,Trail
+880,2017-02-15 20:00:00,United Center,"Chicago, IL",21220,20917,Raptors,Bulls
+881,2017-02-15 20:00:00,Target Center,"Minneapolis, MN",17738,19356,Cavaliers,Timberwolves
+882,2017-02-15 22:30:00,STAPLES Center,"Los Angeles, CA",19997,19060,Kings,Lakers
+883,2017-02-16 19:00:00,Amway Center,"Orlando, FL",17101,18500,Spurs,Magic
+884,2017-02-16 19:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Pacers,Cavaliers
+885,2017-02-16 19:30:00,TD Garden,"Boston, MA",18624,18624,76ers,Celtics
+886,2017-02-16 19:30:00,Air Canada Centre,"Toronto, ON",19800,19800,Hornets,Raptors
+887,2017-02-16 19:30:00,The Palace of Auburn Hills,"Detroit, MI",13549,22076,Mavericks,Pistons
+888,2017-02-16 20:00:00,FedExForum,"Memphis, TN",16145,18119,Pelicans,Grizzlies
+889,2017-02-16 20:00:00,Toyota Center,"Houston, TX",16967,18104,Heat,Rockets
+890,2017-02-16 21:00:00,Pepsi Center,"Denver, CO",13924,19155,Timberwolves,Nuggets
+891,2017-02-16 21:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19590,19911,Blazers,Jazz
+892,2017-02-16 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",18055,18422,Lakers,Suns
+893,2017-02-16 21:30:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Knicks,Thunder
+894,2017-02-16 22:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Hawks,Clippers
+895,2017-02-16 22:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Kings,Warriors
+896,2017-02-17 19:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",17233,18165,Wizards,Pacers
+897,2017-02-17 20:00:00,United Center,"Chicago, IL",21866,20917,Celtics,Bulls
+898,2017-02-24 19:00:00,Amway Center,"Orlando, FL",17487,18500,Blazers,Magic
+899,2017-02-24 19:30:00,The Palace of Auburn Hills,"Detroit, MI",14913,22076,Hornets,Pistons
+900,2017-02-24 20:00:00,Smoothie King Center,"New Orleans, LA",18470,17188,Rockets,Pelicans
+901,2017-02-24 20:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Knicks,Cavaliers
+902,2017-02-24 22:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Clippers,Warriors
+903,2017-02-24 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Nuggets,Kings
+904,2017-02-25 19:00:00,Wells Fargo Center,"Philadelphia, PA",19277,20318,Wizards,76ers
+905,2017-02-25 19:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",17923,18165,Grizzlies,Pacers
+906,2017-02-25 20:00:00,Air Canada Centre,"Toronto, ON",19800,19800,Celtics,Raptors
+907,2017-02-25 20:00:00,United Center,"Chicago, IL",21641,20917,Suns,Bulls
+908,2017-02-25 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",16064,18717,Jazz,Bucks
+909,2017-02-25 20:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Lakers,Thunder
+910,2017-02-25 20:00:00,Target Center,"Minneapolis, MN",15948,19356,Mavericks,Timberwolves
+911,2017-02-25 20:00:00,Philips Arena,"Atlanta, GA",18122,18729,Heat,Hawks
+912,2017-02-25 21:00:00,Pepsi Center,"Denver, CO",17143,19155,Nets,Nuggets
+913,2017-02-25 22:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Spurs,Clippers
+914,2017-02-26 17:00:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Hornets,Kings
+915,2017-02-26 19:00:00,Amway Center,"Orlando, FL",18498,18500,Hawks,Magic
+916,2017-02-26 19:30:00,Madison Square Garden,"New York, NY",19812,19763,76ers,Knicks
+917,2017-02-26 20:00:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Pacers,Heat
+918,2017-02-26 20:30:00,American Airlines Center,"Dallas, TX",20411,19200,Pelicans,Mavericks
+919,2017-02-26 20:30:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Bulls,Cavaliers
+920,2017-02-26 21:00:00,Toyota Center,"Houston, TX",18055,18104,Timberwolves,Rockets
+921,2017-02-26 22:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Nets,Warriors
+922,2017-02-27 15:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Spurs,Lakers
+923,2017-02-27 15:30:00,BMO Harris Bradley Center,"Milwaukee, WI",16051,18717,Suns,Bucks
+924,2017-02-27 17:00:00,Pepsi Center,"Denver, CO",18024,19155,Grizzlies,Nuggets
+925,2017-02-27 17:00:00,Verizon Center,"Washington, DC",19648,20173,Jazz,Wizards
+926,2017-02-27 18:00:00,Air Canada Centre,"Toronto, ON",19800,19800,Blazers,Raptors
+927,2017-02-27 18:00:00,The Palace of Auburn Hills,"Detroit, MI",20141,22076,Celtics,Pistons
+928,2017-02-27 19:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Pelicans,Thunder
+929,2017-02-27 21:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Hornets,Clippers
+930,2017-02-28 19:00:00,Madison Square Garden,"New York, NY",19812,19763,Raptors,Knicks
+931,2017-02-28 19:00:00,Wells Fargo Center,"Philadelphia, PA",20585,20318,Warriors,76ers
+932,2017-02-28 19:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Bucks,Cavaliers
+933,2017-02-28 19:30:00,TD Garden,"Boston, MA",18624,18624,Hawks,Celtics
+934,2017-02-28 21:30:00,Toyota Center,"Houston, TX",18055,18104,Pacers,Rockets
+935,2017-02-28 20:30:00,American Airlines Center,"Dallas, TX",19539,19200,Heat,Mavericks
+936,2017-02-28 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Timberwolves,Kings
+937,2017-03-01 19:00:00,Verizon Center,"Washington, DC",20356,20173,Warriors,Wizards
+938,2017-03-01 19:30:00,The Palace of Auburn Hills,"Detroit, MI",13502,22076,Blazers,Pistons
+939,2017-03-01 20:00:00,United Center,"Chicago, IL",21015,20917,Nuggets,Bulls
+940,2017-03-01 20:00:00,FedExForum,"Memphis, TN",15871,18119,Suns,Grizzlies
+941,2017-03-01 20:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Jazz,Thunder
+942,2017-03-01 22:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Hornets,Lakers
+943,2017-03-03 20:00:00,United Center,"Chicago, IL",22253,20917,Warriors,Bulls
+944,2017-03-03 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",16572,18422,Hornets,Suns
+945,2017-03-03 22:30:00,Moda Center,"Portland, OR",19875,19441,Thunder,Trail
+946,2017-03-04 19:00:00,Wells Fargo Center,"Philadelphia, PA",18518,20318,Knicks,76ers
+947,2017-03-04 19:00:00,Verizon Center,"Washington, DC",20356,20173,Raptors,Wizards
+948,2017-03-04 19:00:00,Amway Center,"Orlando, FL",17136,18500,Heat,Magic
+949,2017-03-04 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",16208,18717,Clippers,Bucks
+950,2017-03-04 19:00:00,Philips Arena,"Atlanta, GA",18877,18729,Cavaliers,Hawks
+951,2017-03-04 20:30:00,American Airlines Center,"Dallas, TX",19480,19200,Grizzlies,Mavericks
+952,2017-03-04 21:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Nets,Jazz
+953,2017-03-04 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",18055,18422,Thunder,Suns
+954,2017-03-04 21:30:00,Smoothie King Center,"New Orleans, LA",17669,17188,Spurs,Pelicans
+955,2017-03-04 22:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Celtics,Lakers
+956,2017-03-05 18:00:00,Wells Fargo Center,"Philadelphia, PA",19523,20318,Pistons,76ers
+957,2017-03-05 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",16775,18717,Raptors,Bucks
+958,2017-03-05 20:00:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Cavaliers,Heat
+959,2017-03-05 20:30:00,United Center,"Chicago, IL",22807,20917,Clippers,Bulls
+960,2017-03-05 21:00:00,Pepsi Center,"Denver, CO",14708,19155,Hornets,Nuggets
+961,2017-03-05 21:00:00,Toyota Center,"Houston, TX",18055,18104,Grizzlies,Rockets
+962,2017-03-05 21:00:00,AT&T Center,"San Antonio, TX",18418,18581,Timberwolves,Spurs
+963,2017-03-05 22:00:00,Moda Center,"Portland, OR",19638,19441,Nets,Trail
+964,2017-03-06 13:00:00,Philips Arena,"Atlanta, GA",15366,18729,Pacers,Hawks
+965,2017-03-06 15:30:00,Madison Square Garden,"New York, NY",19812,19763,Warriors,Knicks
+966,2017-03-06 17:00:00,Talking Stick Resort Arena,"Phoenix, AZ",16790,18422,Celtics,Suns
+967,2017-03-06 17:00:00,Verizon Center,"Washington, DC",19195,20173,Magic,Wizards
+968,2017-03-06 18:00:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Jazz,Kings
+969,2017-03-06 20:30:00,American Airlines Center,"Dallas, TX",20232,19200,Thunder,Mavericks
+970,2017-03-06 21:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Pelicans,Lakers
+971,2017-03-07 19:00:00,Wells Fargo Center,"Philadelphia, PA",18351,20318,Bucks,76ers
+972,2017-03-07 19:00:00,Amway Center,"Orlando, FL",16046,18500,Knicks,Magic
+973,2017-03-07 19:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Heat,Cavaliers
+974,2017-03-07 19:30:00,Philips Arena,"Atlanta, GA",18890,18729,Warriors,Hawks
+975,2017-03-07 19:30:00,The Palace of Auburn Hills,"Detroit, MI",16039,22076,Bulls,Pistons
+976,2017-03-07 20:00:00,FedExForum,"Memphis, TN",15505,18119,Nets,Grizzlies
+977,2017-03-07 20:00:00,Spectrum Center,"Charlotte, NC",16387,19077,Pacers,Hornets
+978,2017-03-07 20:30:00,AT&T Center,"San Antonio, TX",18418,18581,Rockets,Spurs
+979,2017-03-07 21:00:00,Pepsi Center,"Denver, CO",11614,19155,Kings,Nuggets
+980,2017-03-07 21:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19649,19911,Pelicans,Jazz
+981,2017-03-07 22:30:00,STAPLES Center,"Los Angeles, CA",19283,19060,Celtics,Clippers
+982,2017-03-08 20:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Blazers,Thunder
+983,2017-03-08 20:30:00,American Airlines Center,"Dallas, TX",20484,19200,Lakers,Mavericks
+984,2017-03-08 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",16372,18422,Wizards,Suns
+985,2017-03-09 19:00:00,Amway Center,"Orlando, FL",16063,18500,Bulls,Magic
+986,2017-03-09 19:30:00,Philips Arena,"Atlanta, GA",11931,18729,Nets,Hawks
+987,2017-03-09 19:30:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Hornets,Heat
+988,2017-03-09 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",13767,18717,Knicks,Bucks
+989,2017-03-09 20:00:00,Smoothie King Center,"New Orleans, LA",14543,17188,Raptors,Pelicans
+990,2017-03-09 20:00:00,Toyota Center,"Houston, TX",16230,18104,Jazz,Rockets
+991,2017-03-09 20:00:00,Target Center,"Minneapolis, MN",14933,19356,Clippers,Timberwolves
+992,2017-03-09 20:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",14353,18165,Pistons,Pacers
+993,2017-03-09 20:30:00,AT&T Center,"San Antonio, TX",18418,18581,Kings,Spurs
+994,2017-03-09 21:00:00,Pepsi Center,"Denver, CO",12323,19155,Wizards,Nuggets
+995,2017-03-09 22:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Celtics,Warriors
+996,2017-03-10 19:30:00,The Palace of Auburn Hills,"Detroit, MI",19421,22076,Cavaliers,Pistons
+997,2017-03-10 20:00:00,FedExForum,"Memphis, TN",16642,18119,Clippers,Grizzlies
+998,2017-03-10 20:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Spurs,Thunder
+999,2017-03-10 22:00:00,Moda Center,"Portland, OR",19240,19441,76ers,Trail
+1000,2017-03-10 22:30:00,Talking Stick Resort Arena,"Phoenix, AZ",17552,18422,Lakers,Suns
+1001,2017-03-11 19:00:00,Spectrum Center,"Charlotte, NC",17444,19077,Magic,Hornets
+1002,2017-03-11 20:00:00,United Center,"Chicago, IL",21995,20917,Rockets,Bulls
+1003,2017-03-11 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",16177,18717,Pacers,Bucks
+1004,2017-03-11 20:00:00,Target Center,"Minneapolis, MN",20412,19356,Warriors,Timberwolves
+1005,2017-03-11 20:00:00,Philips Arena,"Atlanta, GA",16078,18729,Raptors,Hawks
+1006,2017-03-11 21:00:00,Pepsi Center,"Denver, CO",17147,19155,Celtics,Nuggets
+1007,2017-03-11 21:00:00,American Airlines Center,"Dallas, TX",20022,19200,Nets,Mavericks
+1008,2017-03-11 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Wizards,Kings
+1009,2017-03-12 15:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Jazz,Thunder
+1010,2017-03-12 15:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,76ers,Clippers
+1011,2017-03-12 17:00:00,The Palace of Auburn Hills,"Detroit, MI",19607,22076,Knicks,Pistons
+1012,2017-03-12 19:00:00,Spectrum Center,"Charlotte, NC",18196,19077,Pelicans,Hornets
+1013,2017-03-12 19:00:00,Amway Center,"Orlando, FL",18846,18500,Cavaliers,Magic
+1014,2017-03-12 20:00:00,BMO Harris Bradley Center,"Milwaukee, WI",18717,18717,Timberwolves,Bucks
+1015,2017-03-12 20:00:00,AmericanAirlines Arena,"Miami, FL",19745,19600,Raptors,Heat
+1016,2017-03-12 20:30:00,AT&T Center,"San Antonio, TX",18418,18581,Warriors,Spurs
+1017,2017-03-12 21:00:00,FedExForum,"Memphis, TN",17523,18119,Hawks,Grizzlies
+1018,2017-03-12 21:00:00,American Airlines Center,"Dallas, TX",20324,19200,Suns,Mavericks
+1019,2017-03-12 22:00:00,Moda Center,"Portland, OR",19482,19441,Wizards,Trail
+1020,2017-03-12 22:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Nuggets,Kings
+1021,2017-03-13 14:30:00,TD Garden,"Boston, MA",18624,18624,Bulls,Celtics
+1022,2017-03-13 17:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",17923,18165,Heat,Pacers
+1023,2017-03-13 20:00:00,Talking Stick Resort Arena,"Phoenix, AZ",16664,18422,Blazers,Suns
+1024,2017-03-13 20:00:00,Toyota Center,"Houston, TX",18055,18104,Cavaliers,Rockets
+1025,2017-03-13 20:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,76ers,Lakers
+1026,2017-03-14 18:00:00,Spectrum Center,"Charlotte, NC",16489,19077,Bulls,Hornets
+1027,2017-03-14 18:30:00,Air Canada Centre,"Toronto, ON",19800,19800,Mavericks,Raptors
+1028,2017-03-14 19:00:00,FedExForum,"Memphis, TN",16770,18119,Bucks,Grizzlies
+1029,2017-03-14 19:00:00,AT&T Center,"San Antonio, TX",18418,18581,Hawks,Spurs
+1030,2017-03-14 19:00:00,Target Center,"Minneapolis, MN",15747,19356,Wizards,Timberwolves
+1031,2017-03-14 20:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Clippers,Jazz
+1032,2017-03-14 21:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Magic,Kings
+1033,2017-03-14 21:30:00,Pepsi Center,"Denver, CO",17344,19155,Lakers,Nuggets
+1034,2017-03-15 18:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Pistons,Cavaliers
+1035,2017-03-15 18:30:00,Madison Square Garden,"New York, NY",18261,19763,Pacers,Knicks
+1036,2017-03-15 19:00:00,Smoothie King Center,"New Orleans, LA",15530,17188,Blazers,Pelicans
+1037,2017-03-15 21:30:00,ORACLE Arena,"Oakland, CA",19596,19596,76ers,Warriors
+1038,2017-03-16 18:00:00,Verizon Center,"Washington, DC",17844,20173,Mavericks,Wizards
+1039,2017-03-16 18:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",14169,18165,Hornets,Pacers
+1040,2017-03-16 18:30:00,TD Garden,"Boston, MA",18624,18624,Timberwolves,Celtics
+1041,2017-03-16 18:30:00,AmericanAirlines Arena,"Miami, FL",19678,19600,Pelicans,Heat
+1042,2017-03-16 18:30:00,The Palace of Auburn Hills,"Detroit, MI",14033,22076,Jazz,Pistons
+1043,2017-03-16 19:00:00,United Center,"Chicago, IL",21583,20917,Grizzlies,Bulls
+1044,2017-03-16 19:00:00,Toyota Center,"Houston, TX",18055,18104,Lakers,Rockets
+1045,2017-03-16 19:00:00,AT&T Center,"San Antonio, TX",18418,18581,Blazers,Spurs
+1046,2017-03-16 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",17196,18422,Kings,Suns
+1047,2017-03-16 21:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Bucks,Clippers
+1048,2017-03-17 18:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Jazz,Cavaliers
+1049,2017-03-17 18:00:00,Air Canada Centre,"Toronto, ON",19800,19800,Thunder,Raptors
+1050,2017-03-17 18:30:00,Madison Square Garden,"New York, NY",19812,19763,Nets,Knicks
+1051,2017-03-17 18:30:00,Philips Arena,"Atlanta, GA",17063,18729,Grizzlies,Hawks
+1052,2017-03-17 20:00:00,Pepsi Center,"Denver, CO",14179,19155,Clippers,Nuggets
+1053,2017-03-17 21:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Magic,Warriors
+1054,2017-03-18 18:00:00,Wells Fargo Center,"Philadelphia, PA",17642,20318,Mavericks,76ers
+1055,2017-03-18 18:00:00,Verizon Center,"Washington, DC",20356,20173,Bulls,Wizards
+1056,2017-03-18 18:30:00,The Palace of Auburn Hills,"Detroit, MI",16541,22076,Raptors,Pistons
+1057,2017-03-18 19:00:00,Smoothie King Center,"New Orleans, LA",17972,17188,Rockets,Pelicans
+1058,2017-03-18 19:00:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Timberwolves,Heat
+1059,2017-03-18 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",16880,18422,Magic,Suns
+1060,2017-03-18 21:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Bucks,Lakers
+1061,2017-03-19 14:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Kings,Thunder
+1062,2017-03-19 17:00:00,Philips Arena,"Atlanta, GA",16543,18729,Blazers,Hawks
+1063,2017-03-19 18:00:00,Spectrum Center,"Charlotte, NC",19361,19077,Wizards,Hornets
+1064,2017-03-19 19:30:00,STAPLES Center,"Los Angeles, CA",19379,19060,Cavaliers,Clippers
+1065,2017-03-19 20:00:00,United Center,"Chicago, IL",21953,20917,Jazz,Bulls
+1066,2017-03-19 20:00:00,FedExForum,"Memphis, TN",18119,18119,Spurs,Grizzlies
+1067,2017-03-19 20:30:00,Pepsi Center,"Denver, CO",17512,19155,Rockets,Nuggets
+1068,2017-03-19 21:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Bucks,Warriors
+1069,2017-03-20 12:00:00,Wells Fargo Center,"Philadelphia, PA",19446,20318,Celtics,76ers
+1070,2017-03-20 15:30:00,The Palace of Auburn Hills,"Detroit, MI",19588,22076,Suns,Pistons
+1071,2017-03-20 17:00:00,Smoothie King Center,"New Orleans, LA",16111,17188,Timberwolves,Pelicans
+1072,2017-03-20 17:00:00,Air Canada Centre,"Toronto, ON",19800,19800,Pacers,Raptors
+1073,2017-03-20 17:00:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Blazers,Heat
+1074,2017-03-20 18:00:00,AT&T Center,"San Antonio, TX",18418,18581,Kings,Spurs
+1075,2017-03-20 20:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Cavaliers,Lakers
+1076,2017-03-21 18:00:00,Spectrum Center,"Charlotte, NC",14278,19077,Hawks,Hornets
+1077,2017-03-21 18:00:00,Amway Center,"Orlando, FL",16236,18500,76ers,Magic
+1078,2017-03-21 18:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",15458,18165,Jazz,Pacers
+1079,2017-03-21 18:30:00,TD Garden,"Boston, MA",18624,18624,Wizards,Celtics
+1080,2017-03-21 19:00:00,Toyota Center,"Houston, TX",16080,18104,Nuggets,Rockets
+1081,2017-03-21 19:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Warriors,Thunder
+1082,2017-03-21 21:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Knicks,Clippers
+1083,2017-03-22 18:00:00,Air Canada Centre,"Toronto, ON",19800,19800,Bulls,Raptors
+1084,2017-03-22 18:30:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Suns,Heat
+1085,2017-03-22 19:00:00,Smoothie King Center,"New Orleans, LA",15973,17188,Grizzlies,Pelicans
+1086,2017-03-22 19:30:00,American Airlines Center,"Dallas, TX",20453,19200,Warriors,Mavericks
+1087,2017-03-22 20:30:00,Target Center,"Minneapolis, MN",13742,19356,Spurs,Timberwolves
+1088,2017-03-22 21:00:00,Moda Center,"Portland, OR",19525,19441,Bucks,Trail
+1089,2017-03-22 21:30:00,STAPLES Center,"Los Angeles, CA",18724,19060,Clippers,Lakers
+1090,2017-03-23 18:00:00,Amway Center,"Orlando, FL",16034,18500,Hornets,Magic
+1091,2017-03-23 18:30:00,TD Garden,"Boston, MA",18624,18624,Pacers,Celtics
+1092,2017-03-23 19:00:00,United Center,"Chicago, IL",21503,20917,Pistons,Bulls
+1093,2017-03-23 19:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,76ers,Thunder
+1094,2017-03-23 19:00:00,Verizon Center,"Washington, DC",18137,20173,Hawks,Wizards
+1095,2017-03-23 20:00:00,Pepsi Center,"Denver, CO",19718,19155,Cavaliers,Nuggets
+1096,2017-03-23 21:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Bucks,Kings
+1097,2017-03-23 21:30:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Knicks,Jazz
+1098,2017-03-24 18:30:00,AmericanAirlines Arena,"Miami, FL",19745,19600,Raptors,Heat
+1099,2017-03-24 19:30:00,American Airlines Center,"Dallas, TX",19703,19200,Clippers,Mavericks
+1100,2017-03-24 19:30:00,AT&T Center,"San Antonio, TX",18418,18581,Grizzlies,Spurs
+1101,2017-03-24 21:00:00,Moda Center,"Portland, OR",19020,19441,Knicks,Trail
+1102,2017-03-25 18:00:00,Verizon Center,"Washington, DC",19616,20173,Nets,Wizards
+1103,2017-03-25 18:00:00,Spectrum Center,"Charlotte, NC",19511,19077,Cavaliers,Hornets
+1104,2017-03-25 18:00:00,Amway Center,"Orlando, FL",18076,18500,Pistons,Magic
+1105,2017-03-25 18:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",17923,18165,Nuggets,Pacers
+1106,2017-03-25 18:30:00,TD Garden,"Boston, MA",18624,18624,Suns,Celtics
+1107,2017-03-25 19:00:00,United Center,"Chicago, IL",21558,20917,76ers,Bulls
+1108,2017-03-25 19:00:00,BMO Harris Bradley Center,"Milwaukee, WI",16786,18717,Hawks,Bucks
+1109,2017-03-25 19:00:00,Toyota Center,"Houston, TX",18055,18104,Pelicans,Rockets
+1110,2017-03-25 21:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Timberwolves,Lakers
+1111,2017-03-25 21:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Kings,Warriors
+1112,2017-03-26 14:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Jazz,Clippers
+1113,2017-03-26 18:30:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Wizards,Cavaliers
+1114,2017-03-26 19:30:00,American Airlines Center,"Dallas, TX",19934,19200,Raptors,Mavericks
+1115,2017-03-26 19:30:00,AT&T Center,"San Antonio, TX",18418,18581,Knicks,Spurs
+1116,2017-03-26 21:00:00,Moda Center,"Portland, OR",19580,19441,Timberwolves,Trail
+1117,2017-03-27 12:00:00,Spectrum Center,"Charlotte, NC",17292,19077,Suns,Hornets
+1118,2017-03-27 12:00:00,Philips Arena,"Atlanta, GA",15921,18729,Nets,Hawks
+1119,2017-03-27 14:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Kings,Clippers
+1120,2017-03-27 14:30:00,BMO Harris Bradley Center,"Milwaukee, WI",17669,18717,Bulls,Bucks
+1121,2017-03-27 14:30:00,Toyota Center,"Houston, TX",18055,18104,Thunder,Rockets
+1122,2017-03-27 17:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",16467,18165,76ers,Pacers
+1123,2017-03-27 17:00:00,TD Garden,"Boston, MA",18624,18624,Heat,Celtics
+1124,2017-03-27 19:00:00,ORACLE Arena,"Oakland, CA",19596,19596,Grizzlies,Warriors
+1125,2017-03-27 19:00:00,Pepsi Center,"Denver, CO",19850,19155,Pelicans,Nuggets
+1126,2017-03-27 20:30:00,STAPLES Center,"Los Angeles, CA",18698,19060,Blazers,Lakers
+1127,2017-03-28 18:30:00,Air Canada Centre,"Toronto, ON",19800,19800,Magic,Raptors
+1128,2017-03-28 18:30:00,Madison Square Garden,"New York, NY",19812,19763,Pistons,Knicks
+1129,2017-03-28 19:00:00,AT&T Center,"San Antonio, TX",18418,18581,Cavaliers,Spurs
+1130,2017-03-28 19:30:00,American Airlines Center,"Dallas, TX",19970,19200,Thunder,Mavericks
+1131,2017-03-28 21:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Grizzlies,Kings
+1132,2017-03-28 21:30:00,Vivint Smart Home Arena,"Salt Lake City, UT",18924,19911,Pelicans,Jazz
+1133,2017-03-29 18:00:00,Spectrum Center,"Charlotte, NC",16505,19077,Bucks,Hornets
+1134,2017-03-29 18:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",17534,18165,Timberwolves,Pacers
+1135,2017-03-29 18:30:00,Philips Arena,"Atlanta, GA",13412,18729,Suns,Hawks
+1136,2017-03-29 18:30:00,The Palace of Auburn Hills,"Detroit, MI",17160,22076,Heat,Pistons
+1137,2017-03-29 19:00:00,Toyota Center,"Houston, TX",18055,18104,Warriors,Rockets
+1138,2017-03-29 21:00:00,Moda Center,"Portland, OR",20003,19441,Nuggets,Trail
+1139,2017-03-29 21:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Wizards,Lakers
+1140,2017-03-30 18:00:00,Wells Fargo Center,"Philadelphia, PA",15212,20318,Hawks,76ers
+1141,2017-03-30 18:00:00,Amway Center,"Orlando, FL",18408,18500,Thunder,Magic
+1142,2017-03-30 18:30:00,TD Garden,"Boston, MA",18624,18624,Bucks,Celtics
+1143,2017-03-30 18:30:00,Air Canada Centre,"Toronto, ON",19800,19800,Hornets,Raptors
+1144,2017-03-30 18:30:00,Madison Square Garden,"New York, NY",19812,19763,Heat,Knicks
+1145,2017-03-30 19:00:00,FedExForum,"Memphis, TN",16367,18119,Pacers,Grizzlies
+1146,2017-03-30 19:00:00,Smoothie King Center,"New Orleans, LA",16000,17188,Mavericks,Pelicans
+1147,2017-03-30 20:30:00,AT&T Center,"San Antonio, TX",18418,18581,Warriors,Spurs
+1148,2017-03-30 21:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Wizards,Clippers
+1149,2017-03-30 21:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Jazz,Kings
+1150,2017-03-31 18:30:00,The Palace of Auburn Hills,"Detroit, MI",15804,22076,Nets,Pistons
+1151,2017-03-31 19:00:00,United Center,"Chicago, IL",22282,20917,Cavaliers,Bulls
+1152,2017-03-31 19:00:00,Target Center,"Minneapolis, MN",18179,19356,Lakers,Timberwolves
+1153,2017-03-31 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",16736,18422,Clippers,Suns
+1154,2017-03-31 21:30:00,Moda Center,"Portland, OR",20049,19441,Rockets,Trail
+1155,2017-04-01 18:00:00,Air Canada Centre,"Toronto, ON",19800,19800,Pacers,Raptors
+1156,2017-04-01 18:00:00,Spectrum Center,"Charlotte, NC",18353,19077,Nuggets,Hornets
+1157,2017-04-01 18:30:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,76ers,Cavaliers
+1158,2017-04-01 18:30:00,TD Garden,"Boston, MA",18624,18624,Magic,Celtics
+1159,2017-04-01 19:00:00,BMO Harris Bradley Center,"Milwaukee, WI",18717,18717,Pistons,Bucks
+1160,2017-04-01 19:00:00,FedExForum,"Memphis, TN",17317,18119,Mavericks,Grizzlies
+1161,2017-04-01 19:00:00,Smoothie King Center,"New Orleans, LA",17304,17188,Kings,Pelicans
+1162,2017-04-01 19:00:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Knicks,Heat
+1163,2017-04-01 20:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Wizards,Jazz
+1164,2017-04-01 19:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Spurs,Thunder
+1165,2017-04-01 21:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Rockets,Warriors
+1166,2017-04-05 18:00:00,Wells Fargo Center,"Philadelphia, PA",14580,20318,Nets,76ers
+1167,2017-04-05 18:00:00,Verizon Center,"Washington, DC",18614,20173,Hornets,Wizards
+1168,2017-04-05 18:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Magic,Cavaliers
+1169,2017-04-05 18:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",16524,18165,Raptors,Pacers
+1170,2017-04-05 19:00:00,Smoothie King Center,"New Orleans, LA",16050,17188,Nuggets,Pelicans
+1171,2017-04-05 19:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Bucks,Thunder
+1172,2017-04-05 19:00:00,Madison Square Garden,"New York, NY",19812,19763,Bulls,Knicks
+1173,2017-04-05 19:30:00,AT&T Center,"San Antonio, TX",18418,18581,Grizzlies,Spurs
+1174,2017-04-05 21:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Timberwolves,Warriors
+1175,2017-04-05 21:30:00,Golden 1 Center,"SACRAMENTO, CA",17608,17500,Mavericks,Kings
+1176,2017-04-05 20:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Blazers,Jazz
+1177,2017-04-06 18:00:00,Spectrum Center,"Charlotte, NC",17758,19077,Heat,Hornets
+1178,2017-04-06 18:30:00,The Palace of Auburn Hills,"Detroit, MI",17578,22076,Raptors,Pistons
+1179,2017-04-06 19:00:00,FedExForum,"Memphis, TN",17298,18119,Thunder,Grizzlies
+1180,2017-04-06 19:00:00,Toyota Center,"Houston, TX",18055,18104,Nuggets,Rockets
+1181,2017-04-06 19:00:00,TD Garden,"Boston, MA",18624,18624,Cavaliers,Celtics
+1182,2017-04-06 19:30:00,AT&T Center,"San Antonio, TX",18418,18581,Lakers,Spurs
+1183,2017-04-06 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",18055,18422,Warriors,Suns
+1184,2017-04-06 21:30:00,STAPLES Center,"Los Angeles, CA",19060,19060,Mavericks,Clippers
+1185,2017-04-07 18:00:00,Wells Fargo Center,"Philadelphia, PA",15177,20318,Bulls,76ers
+1186,2017-04-07 18:00:00,Amway Center,"Orlando, FL",18095,18500,Nets,Magic
+1187,2017-04-07 18:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",17010,18165,Bucks,Pacers
+1188,2017-04-07 18:30:00,Madison Square Garden,"New York, NY",19812,19763,Wizards,Knicks
+1189,2017-04-07 19:00:00,Philips Arena,"Atlanta, GA",18688,18729,Celtics,Hawks
+1190,2017-04-07 21:30:00,Moda Center,"Portland, OR",19393,19441,Timberwolves,Trail
+1191,2017-04-08 18:30:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Hawks,Cavaliers
+1192,2017-04-08 18:30:00,Air Canada Centre,"Toronto, ON",19800,19800,Heat,Raptors
+1193,2017-04-08 19:00:00,FedExForum,"Memphis, TN",17631,18119,Knicks,Grizzlies
+1194,2017-04-08 19:00:00,Toyota Center,"Houston, TX",18055,18104,Pistons,Rockets
+1195,2017-04-08 19:30:00,American Airlines Center,"Dallas, TX",20133,19200,Spurs,Mavericks
+1196,2017-04-08 20:00:00,Pepsi Center,"Denver, CO",16348,19155,Pelicans,Nuggets
+1197,2017-04-08 20:00:00,Vivint Smart Home Arena,"Salt Lake City, UT",19911,19911,Timberwolves,Jazz
+1198,2017-04-08 21:00:00,Talking Stick Resort Arena,"Phoenix, AZ",18055,18422,Thunder,Suns
+1199,2017-04-08 21:30:00,STAPLES Center,"Los Angeles, CA",18997,19060,Kings,Lakers
+1200,2017-04-09 17:00:00,Spectrum Center,"Charlotte, NC",19407,19077,Celtics,Hornets
+1201,2017-04-09 17:00:00,Amway Center,"Orlando, FL",18846,18500,Pacers,Magic
+1202,2017-04-09 18:00:00,Wells Fargo Center,"Philadelphia, PA",16301,20318,Bucks,76ers
+1203,2017-04-09 18:00:00,Verizon Center,"Washington, DC",20365,20173,Heat,Wizards
+1204,2016-05-17 20:00:00,ORACLE Arena,"Oakland, CA",19596,19596,Thunder,Warriors
+1205,2016-05-19 20:00:00,ORACLE Arena,"Oakland, CA",19596,19596,Thunder,Warriors
+1206,2016-05-23 19:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Warriors,Thunder
+1207,2016-05-25 20:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Warriors,Thunder
+1208,2016-05-27 20:00:00,ORACLE Arena,"Oakland, CA",19596,19596,Thunder,Warriors
+1209,2016-05-29 20:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Warriors,Thunder
+1210,2016-05-31 20:00:00,ORACLE Arena,"Oakland, CA",19596,19596,Thunder,Warriors
+1211,2016-05-18 19:30:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Raptors,Cavaliers
+1212,2016-05-20 19:30:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Raptors,Cavaliers
+1213,2016-05-22 19:30:00,Air Canada Centre,"Toronto, ON",20207,19800,Cavaliers,Raptors
+1214,2016-05-24 19:30:00,Air Canada Centre,"Toronto, ON",20367,19800,Cavaliers,Raptors
+1215,2016-05-26 19:30:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Raptors,Cavaliers
+1216,2016-05-28 19:30:00,Air Canada Centre,"Toronto, ON",20605,19800,Cavaliers,Raptors
+1217,2016-06-03 20:00:00,ORACLE Arena,"Oakland, CA",19596,19596,Cavaliers,Warriors
+1218,2016-06-06 19:00:00,ORACLE Arena,"Oakland, CA",19596,19596,Cavaliers,Warriors
+1219,2016-06-09 20:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Warriors,Cavaliers
+1220,2016-06-11 20:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Warriors,Cavaliers
+1221,2016-06-14 20:00:00,ORACLE Arena,"Oakland, CA",19596,19596,Cavaliers,Warriors
+1222,2016-06-17 20:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Warriors,Cavaliers
+1223,2016-06-20 19:00:00,ORACLE Arena,"Oakland, CA",19596,19596,Cavaliers,Warriors
+1224,2016-04-17 14:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Rockets,Warriors
+1225,2016-04-18 14:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Pistons,Cavaliers
+1226,2016-04-19 21:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Rockets,Warriors
+1227,2016-04-21 19:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Pistons,Cavaliers
+1228,2016-04-22 20:30:00,Toyota Center,"Houston, TX",18200,18104,Warriors,Rockets
+1229,2016-04-23 18:00:00,The Palace of Auburn Hills,"Detroit, MI",21584,22076,Cavaliers,Pistons
+1230,2016-04-25 14:45:00,Toyota Center,"Houston, TX",18200,18104,Warriors,Rockets
+1231,2016-04-25 19:30:00,The Palace of Auburn Hills,"Detroit, MI",21584,22076,Cavaliers,Pistons
+1232,2016-04-18 21:30:00,STAPLES Center,"Los Angeles, CA",19122,19060,Blazers,Clippers
+1233,2016-04-21 21:30:00,STAPLES Center,"Los Angeles, CA",19127,19060,Blazers,Clippers
+1234,2016-04-24 21:30:00,Moda Center,"Portland, OR",19761,19441,Clippers,Trail
+1235,2016-04-26 21:30:00,Moda Center,"Portland, OR",19607,19441,Clippers,Trail
+1236,2016-04-28 21:00:00,STAPLES Center,"Los Angeles, CA",19060,19060,Blazers,Clippers
+1237,2016-04-30 21:30:00,Moda Center,"Portland, OR",19768,19441,Clippers,Trail
+1238,2016-04-17 20:30:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Mavericks,Thunder
+1239,2016-04-19 19:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Mavericks,Thunder
+1240,2016-04-22 18:00:00,American Airlines Center,"Dallas, TX",20150,19200,Thunder,Mavericks
+1241,2016-04-24 19:00:00,American Airlines Center,"Dallas, TX",20516,19200,Thunder,Mavericks
+1242,2016-04-26 19:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Mavericks,Thunder
+1243,2016-04-28 21:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Rockets,Warriors
+1244,2016-04-18 19:00:00,AT&T Center,"San Antonio, TX",18418,18581,Grizzlies,Spurs
+1245,2016-04-20 20:30:00,AT&T Center,"San Antonio, TX",18418,18581,Grizzlies,Spurs
+1246,2016-04-23 20:30:00,FedExForum,"Memphis, TN",18119,18119,Spurs,Grizzlies
+1247,2016-04-25 12:00:00,FedExForum,"Memphis, TN",18119,18119,Spurs,Grizzlies
+1248,2016-04-17 11:30:00,Air Canada Centre,"Toronto, ON",19800,19800,Pacers,Raptors
+1249,2016-04-19 18:00:00,Air Canada Centre,"Toronto, ON",19800,19800,Pacers,Raptors
+1250,2016-04-22 18:30:00,Bankers Life Fieldhouse,"Indianapolis, IN",18165,18165,Raptors,Pacers
+1251,2016-04-24 14:00:00,Bankers Life Fieldhouse,"Indianapolis, IN",18165,18165,Raptors,Pacers
+1252,2016-04-27 17:00:00,Air Canada Centre,"Toronto, ON",19800,19800,Pacers,Raptors
+1253,2016-04-17 18:00:00,Philips Arena,"Atlanta, GA",18980,18729,Celtics,Hawks
+1254,2016-04-30 18:30:00,Bankers Life Fieldhouse,"Indianapolis, IN",18165,18165,Raptors,Pacers
+1255,2016-04-20 18:00:00,Philips Arena,"Atlanta, GA",18972,18729,Celtics,Hawks
+1256,2016-05-02 19:00:00,Air Canada Centre,"Toronto, ON",20669,19800,Pacers,Raptors
+1257,2016-04-23 19:00:00,TD Garden,"Boston, MA",18624,18624,Hawks,Celtics
+1258,2016-04-25 17:00:00,TD Garden,"Boston, MA",18624,18624,Hawks,Celtics
+1259,2016-04-18 16:30:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Hornets,Heat
+1260,2016-04-27 19:30:00,Philips Arena,"Atlanta, GA",18987,18729,Celtics,Hawks
+1261,2016-04-29 19:00:00,TD Garden,"Boston, MA",18624,18624,Hawks,Celtics
+1262,2016-04-21 18:00:00,AmericanAirlines Arena,"Miami, FL",19650,19600,Hornets,Heat
+1263,2016-04-24 16:30:00,Spectrum Center,"Charlotte, NC",19604,19077,Heat,Hornets
+1264,2016-04-26 18:00:00,Spectrum Center,"Charlotte, NC",19156,19077,Heat,Hornets
+1265,2016-04-28 19:00:00,AmericanAirlines Arena,"Miami, FL",19685,19600,Hornets,Heat
+1266,2016-04-30 19:00:00,Spectrum Center,"Charlotte, NC",19636,19077,Heat,Hornets
+1267,2016-05-02 12:00:00,AmericanAirlines Arena,"Miami, FL",19868,19600,Hornets,Heat
+1268,2016-05-01 19:30:00,AT&T Center,"San Antonio, TX",18418,18581,Thunder,Spurs
+1269,2016-05-03 20:30:00,AT&T Center,"San Antonio, TX",18418,18581,Thunder,Spurs
+1270,2016-05-07 20:30:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Spurs,Thunder
+1271,2016-05-09 19:00:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Spurs,Thunder
+1272,2016-05-11 19:00:00,AT&T Center,"San Antonio, TX",18418,18581,Thunder,Spurs
+1273,2016-05-13 19:30:00,Chesapeake Energy Arena,"Oklahoma City, OK",18203,18203,Spurs,Thunder
+1274,2016-05-03 18:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Hawks,Cavaliers
+1275,2016-05-05 19:00:00,Quicken Loans Arena,"Cleveland, OH",20562,20562,Hawks,Cavaliers
+1276,2016-05-07 18:00:00,Philips Arena,"Atlanta, GA",19089,18729,Cavaliers,Hawks
+1277,2016-05-09 14:30:00,Philips Arena,"Atlanta, GA",19031,18729,Cavaliers,Hawks
+1278,2016-05-02 14:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Blazers,Warriors
+1279,2016-05-04 21:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Blazers,Warriors
+1280,2016-05-08 19:30:00,Moda Center,"Portland, OR",19673,19441,Warriors,Trail
+1281,2016-05-10 21:30:00,Moda Center,"Portland, OR",19583,19441,Warriors,Trail
+1282,2016-05-12 21:30:00,ORACLE Arena,"Oakland, CA",19596,19596,Blazers,Warriors
+1283,2016-05-04 19:00:00,Air Canada Centre,"Toronto, ON",19800,19800,Heat,Raptors
+1284,2016-05-06 19:00:00,Air Canada Centre,"Toronto, ON",20906,19800,Heat,Raptors
+1285,2016-05-08 16:00:00,AmericanAirlines Arena,"Miami, FL",19675,19600,Raptors,Heat
+1286,2016-05-10 19:00:00,AmericanAirlines Arena,"Miami, FL",19600,19600,Raptors,Heat
+1287,2016-05-12 19:00:00,Air Canada Centre,"Toronto, ON",20155,19800,Heat,Raptors
+1288,2016-05-14 19:00:00,AmericanAirlines Arena,"Miami, FL",19757,19600,Raptors,Heat
+1289,2016-05-16 14:30:00,Air Canada Centre,"Toronto, ON",20257,19800,Heat,Raptors
+1290,2016-01-25 19:00:00,Wells Fargo Center,"Philadelphia, PA",9722,20318,Celtics,76ers
+1291,2016-02-19 19:00:00,Verizon Center,"Washington, DC",12415,20173,Jazz,Wizards
