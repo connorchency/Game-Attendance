@@ -1,5 +1,5 @@
 # Game-Attendance
 
-### Connor Chen
-### Richard Vecsler
-### Yao Wang
+### - Connor Chen
+### - Richard Vecsler
+### - Yao Wang
