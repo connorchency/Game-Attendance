@@ -3,4 +3,5 @@
 
 ### - Connor Chen
 ### - Richard Vecsler
-### - Yao Wang
+### - Yao Wang:
+##### Responsible for scrapping the data from ESPN and Land of basketball, as well as building model with random forest tree and gaussian process also ensembling model with extra tree model. 
